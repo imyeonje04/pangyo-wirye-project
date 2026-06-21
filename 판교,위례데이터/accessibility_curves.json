@@ -1,0 +1,134 @@
+{
+  "curves": {
+    "판교": [
+      {
+        "t_min": 0,
+        "n_stations": 1
+      },
+      {
+        "t_min": 5,
+        "n_stations": 2
+      },
+      {
+        "t_min": 10,
+        "n_stations": 6
+      },
+      {
+        "t_min": 15,
+        "n_stations": 14
+      },
+      {
+        "t_min": 20,
+        "n_stations": 21
+      },
+      {
+        "t_min": 25,
+        "n_stations": 39
+      },
+      {
+        "t_min": 30,
+        "n_stations": 67
+      },
+      {
+        "t_min": 35,
+        "n_stations": 94
+      },
+      {
+        "t_min": 40,
+        "n_stations": 130
+      },
+      {
+        "t_min": 45,
+        "n_stations": 185
+      },
+      {
+        "t_min": 50,
+        "n_stations": 255
+      },
+      {
+        "t_min": 55,
+        "n_stations": 296
+      },
+      {
+        "t_min": 60,
+        "n_stations": 345
+      }
+    ],
+    "위례": [
+      {
+        "t_min": 0,
+        "n_stations": 1
+      },
+      {
+        "t_min": 5,
+        "n_stations": 6
+      },
+      {
+        "t_min": 10,
+        "n_stations": 14
+      },
+      {
+        "t_min": 15,
+        "n_stations": 25
+      },
+      {
+        "t_min": 20,
+        "n_stations": 46
+      },
+      {
+        "t_min": 25,
+        "n_stations": 65
+      },
+      {
+        "t_min": 30,
+        "n_stations": 88
+      },
+      {
+        "t_min": 35,
+        "n_stations": 118
+      },
+      {
+        "t_min": 40,
+        "n_stations": 144
+      },
+      {
+        "t_min": 45,
+        "n_stations": 178
+      },
+      {
+        "t_min": 50,
+        "n_stations": 235
+      },
+      {
+        "t_min": 55,
+        "n_stations": 288
+      },
+      {
+        "t_min": 60,
+        "n_stations": 321
+      }
+    ]
+  },
+  "summary": {
+    "판교": {
+      "iso": {
+        "30": {
+          "n_stations": 67
+        },
+        "60": {
+          "n_stations": 345
+        }
+      }
+    },
+    "위례": {
+      "iso": {
+        "30": {
+          "n_stations": 88
+        },
+        "60": {
+          "n_stations": 321
+        }
+      }
+    }
+  }
+}
