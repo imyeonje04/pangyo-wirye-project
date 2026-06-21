@@ -1,0 +1,38 @@
+{
+  "source": "기말고사대체과제프로젝트\\subway_network (1)\\edit\\stations.shp",
+  "network_date": "2024-12-31",
+  "crs": "EPSG:5179",
+  "method": "Union of active station 500 m / 1 km straight-line buffers intersected with each analysis boundary",
+  "zones": {
+    "pangyo": {
+      "coverage_500m_pct": 0.5,
+      "stations_500m": [
+        "판교"
+      ],
+      "coverage_1000m_pct": 39.5,
+      "stations_1000m": [
+        "성남",
+        "판교"
+      ]
+    },
+    "wirye": {
+      "coverage_500m_pct": 25.9,
+      "stations_500m": [
+        "거여",
+        "남위례",
+        "복정",
+        "산성"
+      ],
+      "coverage_1000m_pct": 70.6,
+      "stations_1000m": [
+        "개롱",
+        "거여",
+        "남위례",
+        "마천",
+        "복정",
+        "산성",
+        "장지"
+      ]
+    }
+  }
+}

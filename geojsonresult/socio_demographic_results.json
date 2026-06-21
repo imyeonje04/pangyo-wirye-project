@@ -1,0 +1,106 @@
+{
+  "year": 2023,
+  "method": "SGIS output-area area weighting",
+  "boundary_year": "2025 Q2",
+  "industry_codes": {
+    "cp_bem_001": "농림어업",
+    "cp_bem_002": "광업",
+    "cp_bem_003": "제조",
+    "cp_bem_004": "에너지",
+    "cp_bem_005": "환경",
+    "cp_bem_006": "건설",
+    "cp_bem_007": "도소매",
+    "cp_bem_008": "운수",
+    "cp_bem_009": "숙박음식",
+    "cp_bem_010": "정보통신",
+    "cp_bem_011": "금융보험",
+    "cp_bem_012": "부동산",
+    "cp_bem_013": "전문과학",
+    "cp_bem_014": "사업지원",
+    "cp_bem_015": "공공행정",
+    "cp_bem_016": "교육",
+    "cp_bem_017": "보건복지",
+    "cp_bem_018": "예술여가",
+    "cp_bem_019": "기타서비스"
+  },
+  "pangyo": {
+    "population": 336,
+    "households": 291,
+    "employees": 54900,
+    "businesses": 1552,
+    "job_housing_ratio": 163.39,
+    "people_per_household": 1.15,
+    "business_density_per_ha": 17.77,
+    "industry": {
+      "지식기반": {
+        "employees": 35209,
+        "pct": 64.1
+      },
+      "제조": {
+        "employees": 2436,
+        "pct": 4.4
+      },
+      "유통·생활서비스": {
+        "employees": 6065,
+        "pct": 11.0
+      },
+      "공공·교육·보건": {
+        "employees": 712,
+        "pct": 1.3
+      },
+      "건설·부동산": {
+        "employees": 2169,
+        "pct": 4.0
+      },
+      "기타": {
+        "employees": 8304,
+        "pct": 15.1
+      },
+      "미분류·비공개": {
+        "employees": 5,
+        "pct": 0.0
+      }
+    },
+    "matched_output_areas": 5
+  },
+  "wirye": {
+    "population": 12026,
+    "households": 4831,
+    "employees": 13472,
+    "businesses": 2891,
+    "job_housing_ratio": 1.12,
+    "people_per_household": 2.49,
+    "business_density_per_ha": 19.27,
+    "industry": {
+      "지식기반": {
+        "employees": 1514,
+        "pct": 11.2
+      },
+      "제조": {
+        "employees": 187,
+        "pct": 1.4
+      },
+      "유통·생활서비스": {
+        "employees": 4491,
+        "pct": 33.3
+      },
+      "공공·교육·보건": {
+        "employees": 2681,
+        "pct": 19.9
+      },
+      "건설·부동산": {
+        "employees": 1725,
+        "pct": 12.8
+      },
+      "기타": {
+        "employees": 2728,
+        "pct": 20.2
+      },
+      "미분류·비공개": {
+        "employees": 146,
+        "pct": 1.1
+      }
+    },
+    "matched_output_areas": 90
+  }
+}

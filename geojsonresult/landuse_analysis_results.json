@@ -1,0 +1,130 @@
+{
+  "method": {
+    "boundary": "analysis boundary clip",
+    "building_dedup": "zone+name+primary_use+category+gfa",
+    "lum": "normalized Shannon entropy, fixed 7 categories",
+    "far": "arithmetic mean of valid FAR records (0<FAR<2000)"
+  },
+  "pangyo": {
+    "area_ha": 87.3,
+    "zoning": {
+      "자연녹지지역": {
+        "area_ha": 15.54,
+        "pct": 17.8
+      },
+      "준주거지역": {
+        "area_ha": 71.8,
+        "pct": 82.2
+      }
+    },
+    "building_use": {
+      "업무": {
+        "count": 56,
+        "gfa_m2": 1820836.8,
+        "pct": 64.57
+      },
+      "연구": {
+        "count": 23,
+        "gfa_m2": 872017.2,
+        "pct": 30.92
+      },
+      "판매": {
+        "count": 0,
+        "gfa_m2": 0.0,
+        "pct": 0.0
+      },
+      "근린생활": {
+        "count": 1,
+        "gfa_m2": 611.0,
+        "pct": 0.02
+      },
+      "문화": {
+        "count": 0,
+        "gfa_m2": 0.0,
+        "pct": 0.0
+      },
+      "주거": {
+        "count": 10,
+        "gfa_m2": 21201.8,
+        "pct": 0.75
+      },
+      "기타": {
+        "count": 11,
+        "gfa_m2": 105152.9,
+        "pct": 3.73
+      }
+    },
+    "total_buildings": 101,
+    "total_gfa_m2": 2819819.8,
+    "lum": 0.415,
+    "far_mean": 314.0,
+    "far_median": 341.4,
+    "far_valid_n": 60,
+    "far_total_n": 101
+  },
+  "wirye": {
+    "area_ha": 150.0,
+    "zoning": {
+      "근린상업지역": {
+        "area_ha": 5.18,
+        "pct": 3.5
+      },
+      "일반상업지역": {
+        "area_ha": 39.05,
+        "pct": 26.0
+      },
+      "준주거지역": {
+        "area_ha": 105.77,
+        "pct": 70.5
+      },
+      "기타": {
+        "area_ha": 0.03,
+        "pct": 0.0
+      }
+    },
+    "building_use": {
+      "업무": {
+        "count": 22,
+        "gfa_m2": 596725.5,
+        "pct": 36.02
+      },
+      "연구": {
+        "count": 0,
+        "gfa_m2": 0.0,
+        "pct": 0.0
+      },
+      "판매": {
+        "count": 4,
+        "gfa_m2": 272529.8,
+        "pct": 16.45
+      },
+      "근린생활": {
+        "count": 87,
+        "gfa_m2": 434579.2,
+        "pct": 26.23
+      },
+      "문화": {
+        "count": 0,
+        "gfa_m2": 0.0,
+        "pct": 0.0
+      },
+      "주거": {
+        "count": 52,
+        "gfa_m2": 171707.0,
+        "pct": 10.36
+      },
+      "기타": {
+        "count": 18,
+        "gfa_m2": 181255.0,
+        "pct": 10.94
+      }
+    },
+    "total_buildings": 183,
+    "total_gfa_m2": 1656796.6,
+    "lum": 0.767,
+    "far_mean": 219.6,
+    "far_median": 84.3,
+    "far_valid_n": 131,
+    "far_total_n": 183
+  }
+}

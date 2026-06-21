@@ -1,0 +1,22 @@
+{
+  "source": "국토교통부_전국 버스정류장 위치정보_20251031 (1).csv",
+  "reference_date": "2025-10-31",
+  "deduplication": "Matching provider-independent ID merged; same/similar stop name within 15 m merged",
+  "catchment": "300 m straight-line buffer clipped to analysis boundary",
+  "zones": {
+    "pangyo": {
+      "area_km2": 0.873,
+      "raw_records": 30,
+      "physical_stop_count": 26,
+      "density_per_km2": 29.78,
+      "coverage_300m_pct": 98.9
+    },
+    "wirye": {
+      "area_km2": 1.5,
+      "raw_records": 73,
+      "physical_stop_count": 42,
+      "density_per_km2": 28.0,
+      "coverage_300m_pct": 82.5
+    }
+  }
+}

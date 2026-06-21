@@ -1,0 +1,166 @@
+{
+  "method": "reachable station 800m union, output-area area weighting (10m simplification)",
+  "buffer_m": 800,
+  "population_year": 2023,
+  "employees_year": 2023,
+  "pangyo": [
+    {
+      "minute": 0,
+      "stations": 1,
+      "population": 28668,
+      "employees": 64995
+    },
+    {
+      "minute": 5,
+      "stations": 2,
+      "population": 65202,
+      "employees": 94035
+    },
+    {
+      "minute": 10,
+      "stations": 6,
+      "population": 158328,
+      "employees": 167495
+    },
+    {
+      "minute": 15,
+      "stations": 14,
+      "population": 401324,
+      "employees": 487040
+    },
+    {
+      "minute": 20,
+      "stations": 21,
+      "population": 560990,
+      "employees": 652646
+    },
+    {
+      "minute": 25,
+      "stations": 39,
+      "population": 1002142,
+      "employees": 1144596
+    },
+    {
+      "minute": 30,
+      "stations": 66,
+      "population": 1456470,
+      "employees": 1534664
+    },
+    {
+      "minute": 35,
+      "stations": 94,
+      "population": 2221043,
+      "employees": 1973703
+    },
+    {
+      "minute": 40,
+      "stations": 130,
+      "population": 3143498,
+      "employees": 2668433
+    },
+    {
+      "minute": 45,
+      "stations": 184,
+      "population": 4223188,
+      "employees": 3699159
+    },
+    {
+      "minute": 50,
+      "stations": 254,
+      "population": 5812392,
+      "employees": 4543706
+    },
+    {
+      "minute": 55,
+      "stations": 295,
+      "population": 6969152,
+      "employees": 5166072
+    },
+    {
+      "minute": 60,
+      "stations": 344,
+      "population": 8470459,
+      "employees": 5669502
+    }
+  ],
+  "wirye": [
+    {
+      "minute": 0,
+      "stations": 1,
+      "population": 8308,
+      "employees": 10200
+    },
+    {
+      "minute": 5,
+      "stations": 6,
+      "population": 125212,
+      "employees": 150551
+    },
+    {
+      "minute": 10,
+      "stations": 14,
+      "population": 398591,
+      "employees": 264618
+    },
+    {
+      "minute": 15,
+      "stations": 25,
+      "population": 726509,
+      "employees": 467507
+    },
+    {
+      "minute": 20,
+      "stations": 46,
+      "population": 1207183,
+      "employees": 692786
+    },
+    {
+      "minute": 25,
+      "stations": 65,
+      "population": 1714064,
+      "employees": 1191705
+    },
+    {
+      "minute": 30,
+      "stations": 88,
+      "population": 2290095,
+      "employees": 1946705
+    },
+    {
+      "minute": 35,
+      "stations": 118,
+      "population": 2910720,
+      "employees": 2297868
+    },
+    {
+      "minute": 40,
+      "stations": 143,
+      "population": 3597132,
+      "employees": 2763759
+    },
+    {
+      "minute": 45,
+      "stations": 178,
+      "population": 4420822,
+      "employees": 3319276
+    },
+    {
+      "minute": 50,
+      "stations": 234,
+      "population": 5630321,
+      "employees": 4172075
+    },
+    {
+      "minute": 55,
+      "stations": 287,
+      "population": 6957258,
+      "employees": 4803288
+    },
+    {
+      "minute": 60,
+      "stations": 320,
+      "population": 7796853,
+      "employees": 5272102
+    }
+  ]
+}

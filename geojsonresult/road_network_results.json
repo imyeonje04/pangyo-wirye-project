@@ -1,0 +1,43 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "retrieved": "2026-06-20",
+  "crs_length": "EPSG:5179",
+  "included_highway": [
+    "motorway",
+    "trunk",
+    "primary",
+    "secondary",
+    "tertiary",
+    "residential",
+    "unclassified",
+    "living_street",
+    "service",
+    "road"
+  ],
+  "excluded_service": [
+    "parking_aisle",
+    "driveway"
+  ],
+  "pangyo": {
+    "area_km2": 0.873,
+    "road_length_km": 10.24,
+    "road_density_km_km2": 11.72,
+    "segments": 48,
+    "by_class_km": {
+      "광역·간선": 3.77,
+      "보조간선": 2.39,
+      "지역·접근": 4.07
+    }
+  },
+  "wirye": {
+    "area_km2": 1.5,
+    "road_length_km": 18.4,
+    "road_density_km_km2": 12.27,
+    "segments": 191,
+    "by_class_km": {
+      "광역·간선": 6.6,
+      "보조간선": 3.78,
+      "지역·접근": 8.03
+    }
+  }
+}

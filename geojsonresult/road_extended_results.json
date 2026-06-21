@@ -1,0 +1,38 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "retrieved": "2026-06-20",
+  "distance_basis": "analysis-boundary centroid to nearest named motorway interchange node, straight-line EPSG:5179",
+  "road_ratio_note": "estimated from class-based representative widths; buffered centerlines unioned and clipped to boundary",
+  "assumed_width_m": {
+    "motorway": 25,
+    "trunk": 20,
+    "primary": 18,
+    "secondary": 14,
+    "tertiary": 12,
+    "residential": 8,
+    "unclassified": 7,
+    "living_street": 6,
+    "service": 5,
+    "road": 6
+  },
+  "zones": {
+    "pangyo": {
+      "estimated_road_area_m2": 109317,
+      "estimated_road_ratio_pct": 12.5,
+      "nearest_ic": "판교IC",
+      "nearest_ic_osm_name": "판교",
+      "nearest_ic_distance_km": 0.69,
+      "nearest_ic_lon": 127.0993383,
+      "nearest_ic_lat": 37.3985996
+    },
+    "wirye": {
+      "estimated_road_area_m2": 179487,
+      "estimated_road_ratio_pct": 12.0,
+      "nearest_ic": "송파IC",
+      "nearest_ic_osm_name": "송파",
+      "nearest_ic_distance_km": 0.75,
+      "nearest_ic_lon": 127.132918,
+      "nearest_ic_lat": 37.477775
+    }
+  }
+}

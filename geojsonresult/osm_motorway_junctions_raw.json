@@ -1,0 +1,7878 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-20T09:07:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 302151955,
+      "lat": 37.29871,
+      "lon": 127.05253,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동수원",
+        "name:en": "East Suwon",
+        "name:ko": "동수원",
+        "ref": "12",
+        "wikidata": "Q10858497",
+        "wikipedia": "ko:동수원 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302282296,
+      "lat": 37.2291024,
+      "lon": 127.4288845,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop JC",
+        "name:ko": "호법분기점",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302284199,
+      "lat": 37.2471939,
+      "lon": 127.2384669,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인 휴게소 (강릉 방향)",
+        "name:en": "Yongin Service Station (To Gangneung)",
+        "name:ko": "용인 휴게소 (강릉 방향)",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387153879,
+      "lat": 37.5256176,
+      "lon": 126.95348,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강대교 북단",
+        "name:ko": "한강대교 북단",
+        "ref": "13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387153882,
+      "lat": 37.523062,
+      "lon": 126.9565016,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "name:ko": "한강공원입구",
+        "ref": "J-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387154518,
+      "lat": 37.5476409,
+      "lon": 126.9079478,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양화대교북단",
+        "ref": "9B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387154698,
+      "lat": 37.5462638,
+      "lon": 126.9082783,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양화대교 북단",
+        "ref": "9B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387154721,
+      "lat": 37.5455772,
+      "lon": 126.9105101,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양화대교북단",
+        "ref": "9A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436210017,
+      "lat": 37.295386,
+      "lon": 127.103562,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "45A;45B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436210332,
+      "lat": 37.2906077,
+      "lon": 127.1077094,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "13A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436212007,
+      "lat": 37.2383073,
+      "lon": 127.1055084,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "기흥 휴게소 (부산 방향)",
+        "name:en": "Giheung Service Station (To Busan)",
+        "name:ko": "기흥 휴게소 (부산 방향)",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436220650,
+      "lat": 37.2899789,
+      "lon": 127.1041909,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "13B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436249439,
+      "lat": 37.5442625,
+      "lon": 127.1817588,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "상일",
+        "name:en": "Sangil",
+        "name:ko": "상일",
+        "ref": "6",
+        "wikidata": "Q12600512",
+        "wikipedia": "ko:상일 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436249463,
+      "lat": 37.5544918,
+      "lon": 127.1767505,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "상일",
+        "name:en": "Sangil",
+        "name:ko": "상일",
+        "ref": "6",
+        "wikidata": "Q12600512",
+        "wikipedia": "ko:상일 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436249639,
+      "lat": 37.5131348,
+      "lon": 127.1545877,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서하남",
+        "name:en": "West Hanam",
+        "name:ko": "서하남",
+        "ref": "4",
+        "wikidata": "Q16097803",
+        "wikipedia": "ko:서하남 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436249684,
+      "lat": 37.5317595,
+      "lon": 127.2012704,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하남분기점",
+        "name:en": "Hanam Junction",
+        "name:ko": "하남분기점",
+        "ref": "43",
+        "wikidata": "Q11553537",
+        "wikipedia": "ko:하남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436252232,
+      "lat": 37.5685892,
+      "lon": 127.1694178,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일",
+        "name:en": "Gangil",
+        "name:ko": "강일",
+        "old_name": "하일",
+        "ref": "7",
+        "wikidata": "Q12583073",
+        "wikipedia": "ko:강일 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436252270,
+      "lat": 37.5325117,
+      "lon": 127.1926941,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하남분기점",
+        "name:en": "Hanam Junction",
+        "name:ko": "하남분기점",
+        "ref": "5",
+        "wikidata": "Q11553537",
+        "wikipedia": "ko:하남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436252672,
+      "lat": 37.5743224,
+      "lon": 127.1639871,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일",
+        "name:en": "Gangil",
+        "name:ko": "강일",
+        "old_name": "하일",
+        "ref": "7A",
+        "wikidata": "Q12583073",
+        "wikipedia": "ko:강일 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436255454,
+      "lat": 37.6547773,
+      "lon": 126.8163464,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "고양",
+        "name:en": "Goyang",
+        "name:ko": "고양",
+        "ref": "17",
+        "wikidata": "Q12584320",
+        "wikipedia": "ko:고양 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436255592,
+      "lat": 37.6683526,
+      "lon": 126.8487911,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "고양분기점",
+        "name:el": "Κόμβος (JC) Γκόγιανγκ",
+        "name:en": "Goyang Junction",
+        "name:ko": "고양분기점",
+        "ref": "16-1",
+        "start_date": "2020-11-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436255640,
+      "lat": 37.67472,
+      "lon": 126.87675,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "통일로",
+        "name:en": "Tongillo",
+        "name:ko": "통일로",
+        "ref": "16",
+        "wikidata": "Q12621257",
+        "wikipedia": "ko:통일로 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436257020,
+      "lat": 37.6948035,
+      "lon": 127.0521634,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "의정부",
+        "name:en": "Uijeongbu",
+        "name:ja": "議政府",
+        "name:ko": "의정부",
+        "ref": "14",
+        "wikidata": "Q12610785",
+        "wikipedia": "ko:의정부 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436257553,
+      "lat": 37.6639131,
+      "lon": 127.1138583,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "별내",
+        "name:en": "Byeollae",
+        "name:ko": "별내",
+        "ref": "13",
+        "wikidata": "Q16096603",
+        "wikipedia": "ko:별내 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436258155,
+      "lat": 37.697153,
+      "lon": 127.0481923,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "의정부",
+        "name:en": "Uijeongbu",
+        "name:ko": "의정부",
+        "ref": "14",
+        "wikidata": "Q12610785",
+        "wikipedia": "ko:의정부 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436258288,
+      "lat": 37.5999287,
+      "lon": 127.1549446,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남양주",
+        "name:en": "Namyangju",
+        "name:ko": "남양주",
+        "ref": "9",
+        "wikidata": "Q12589927",
+        "wikipedia": "ko:남양주 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436259960,
+      "lat": 37.4282978,
+      "lon": 126.8957794,
+      "tags": {
+        "destination": "인천;광명",
+        "highway": "motorway_junction",
+        "name": "일직분기점",
+        "name:en": "Iljik JC",
+        "name:ko": "일직분기점",
+        "ref": "36A",
+        "wikidata": "Q11267877",
+        "wikipedia": "ko:일직 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436259994,
+      "lat": 37.4182694,
+      "lon": 126.8933944,
+      "tags": {
+        "destination": "인천;안양",
+        "highway": "motorway_junction",
+        "name": "일직분기점",
+        "name:en": "Iljik JC",
+        "name:ko": "일직분기점",
+        "ref": "36A;36B",
+        "wikidata": "Q11267877",
+        "wikipedia": "ko:일직 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436261413,
+      "lat": 37.2806328,
+      "lon": 126.8984899,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "매송IC",
+        "name:en": "Maesong IC",
+        "name:ko": "매송IC",
+        "ref": "31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436264440,
+      "lat": 37.3936981,
+      "lon": 126.8706628,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "목감",
+        "name:en": "Mokgam",
+        "name:ko": "목감",
+        "ref": "34",
+        "wikidata": "Q12595340",
+        "wikipedia": "ko:목감 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436264633,
+      "lat": 37.3084277,
+      "lon": 126.8952843,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "팔곡분기점",
+        "name:en": "Palgok JC",
+        "name:ko": "팔곡분기점",
+        "ref": "31-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436275998,
+      "lat": 37.23998,
+      "lon": 127.3943839,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "덕평자연휴게소",
+        "name:en": "Deokpyeong Natual Service Station",
+        "name:ko": "덕평자연휴게소",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436276521,
+      "lat": 37.2349935,
+      "lon": 127.4385387,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop Junction",
+        "name:ko": "호법분기점",
+        "ref": "21A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436276740,
+      "lat": 37.3169457,
+      "lon": 126.9948445,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북수원IC",
+        "name:en": "N.Suwon IC",
+        "name:ko": "북수원IC",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436276861,
+      "lat": 37.2897257,
+      "lon": 127.0999108,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "13A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436278727,
+      "lat": 37.2467955,
+      "lon": 127.2419102,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인 휴게소 (인천 방향)",
+        "name:en": "Yongin Service Station (To Incheon)",
+        "name:ko": "용인 휴게소 (인천 방향)",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436278782,
+      "lat": 37.2388856,
+      "lon": 127.2905546,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양지IC",
+        "name:en": "Yangji IC",
+        "name:ko": "양지IC",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436281267,
+      "lat": 37.3452498,
+      "lon": 126.85671,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안산분기점",
+        "name:en": "Ansan JC",
+        "name:ko": "안산분기점",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436284187,
+      "lat": 37.239621,
+      "lon": 127.4192063,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop JC",
+        "name:ko": "호법분기점",
+        "ref": "21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436286601,
+      "lat": 37.4654316,
+      "lon": 127.0902385,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "헌릉",
+        "name:en": "Heolleung",
+        "name:ko": "헌릉",
+        "ref": "7",
+        "wikidata": "Q4742958",
+        "wikipedia": "ko:헌릉 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436286712,
+      "lat": 37.4219132,
+      "lon": 127.089565,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "고등",
+        "name:en": "Godeung",
+        "name:ko": "고등",
+        "ref": "6",
+        "wikidata": "Q4742950",
+        "wikipedia": "ko:고등 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436286928,
+      "lat": 37.3311029,
+      "lon": 127.0588768,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서수지",
+        "name:en": "West Suji",
+        "name:ko": "서수지",
+        "ref": "3",
+        "wikidata": "Q12601006",
+        "wikipedia": "ko:서수지 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436287226,
+      "lat": 37.2785573,
+      "lon": 127.0795773,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "흥덕",
+        "name:en": "Heungdeok",
+        "name:ko": "흥덕",
+        "ref": "1",
+        "wikidata": "Q4742909",
+        "wikipedia": "ko:흥덕 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436293907,
+      "lat": 37.4246528,
+      "lon": 126.8891158,
+      "tags": {
+        "destination": "15;목포,성산대교;100;서울외곽선",
+        "exit_to": "성산대교;목포",
+        "highway": "motorway_junction",
+        "name": "일직분기점",
+        "name:en": "Iljik JC",
+        "name:ko": "일직분기점",
+        "ref": "13A;13B",
+        "wikidata": "Q11267877",
+        "wikipedia": "ko:일직 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436293979,
+      "lat": 37.4383119,
+      "lon": 126.8559882,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광명 나들목",
+        "name:en": "Gwangmyeong IC",
+        "name:ko": "광명 나들목",
+        "ref": "12",
+        "wikidata": "Q12584989",
+        "wikipedia": "ko:광명 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436294275,
+      "lat": 37.4401506,
+      "lon": 126.8467494,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광명 나들목",
+        "name:en": "Gwangmyeong IC",
+        "name:ko": "광명 나들목",
+        "ref": "12",
+        "wikidata": "Q12584989",
+        "wikipedia": "ko:광명 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436294752,
+      "lat": 37.2626806,
+      "lon": 127.4089246,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마장분기점",
+        "name:en": "Majang JC",
+        "name:ko": "마장분기점",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436294800,
+      "lat": 37.2800756,
+      "lon": 127.387983,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서이천IC",
+        "name:en": "W.Icheon IC",
+        "name:ko": "서이천IC",
+        "ref": "38"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436294829,
+      "lat": 37.2736722,
+      "lon": 127.3952933,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서이천IC",
+        "name:en": "W.Icheon IC",
+        "name:ko": "서이천IC",
+        "ref": "38"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436294856,
+      "lat": 37.2571615,
+      "lon": 127.4122025,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마장분기점",
+        "name:en": "Majang JC",
+        "name:ko": "마장분기점",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436295317,
+      "lat": 37.3491068,
+      "lon": 127.3222843,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "곤지암IC",
+        "name:en": "Gonjiam IC",
+        "name:ko": "곤지암IC",
+        "ref": "39"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436295464,
+      "lat": 37.4461248,
+      "lon": 127.2755812,
+      "tags": {
+        "alt_name": "경기광주IC",
+        "highway": "motorway_junction",
+        "name": "광주IC",
+        "name:en": "Gwangju IC",
+        "name:ko": "광주IC",
+        "ref": "40"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436295682,
+      "lat": 37.3517654,
+      "lon": 127.3211302,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "곤지암IC",
+        "name:en": "Gonjiam IC",
+        "name:ko": "곤지암IC",
+        "ref": "39"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436295800,
+      "lat": 37.5227481,
+      "lon": 127.2205329,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하남IC",
+        "name:en": "Hanam IC",
+        "name:ko": "하남IC",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436296524,
+      "lat": 37.485169,
+      "lon": 127.2406137,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "산곡분기점",
+        "name:en": "Sangok JC",
+        "name:ko": "산곡분기점",
+        "ref": "41"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436393421,
+      "lat": 37.4674393,
+      "lon": 126.8845418,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "금천교교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436690278,
+      "lat": 37.6495073,
+      "lon": 127.1953581,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사릉IC",
+        "name:ko": "사릉IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436719107,
+      "lat": 37.6098276,
+      "lon": 127.182102,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도농IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436760119,
+      "lat": 37.5350199,
+      "lon": 126.9435399,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마포대교 북단",
+        "ref": "11A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436760313,
+      "lat": 37.5190235,
+      "lon": 126.9691494,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강대교 북단",
+        "ref": "13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436760314,
+      "lat": 37.5184089,
+      "lon": 126.970468,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강대교 북단",
+        "ref": "13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436761711,
+      "lat": 37.5547105,
+      "lon": 127.0682379,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "군자교",
+        "name:ko": "군자교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436761751,
+      "lat": 37.566447,
+      "lon": 127.0746857,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "군자교",
+        "name:ko": "군자교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436761792,
+      "lat": 37.5977676,
+      "lon": 127.0689136,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중랑교",
+        "name:ko": "중랑교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436761821,
+      "lat": 37.6220578,
+      "lon": 127.0698628,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월릉교",
+        "name:ko": "월릉교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436761923,
+      "lat": 37.6599757,
+      "lon": 127.0528038,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "상계교",
+        "name:ko": "상계교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436762058,
+      "lat": 37.6090679,
+      "lon": 127.0725453,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월릉교",
+        "name:ko": "월릉교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436762819,
+      "lat": 37.6150796,
+      "lon": 127.1051983,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신내IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436762881,
+      "lat": 37.6176831,
+      "lon": 127.0923844,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "묵동IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436763814,
+      "lat": 37.506697,
+      "lon": 126.9909208,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동작대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436831356,
+      "lat": 37.5628912,
+      "lon": 127.049335,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사근",
+        "name:en": "Sageun",
+        "name:ko": "사근",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436838345,
+      "lat": 37.5334291,
+      "lon": 127.0229525,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동호대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436871183,
+      "lat": 37.6062024,
+      "lon": 127.0074263,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "정릉",
+        "name:ko": "정릉",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 437298518,
+      "lat": 37.4499176,
+      "lon": 127.0071275,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광창",
+        "note": "교차로 이름이 표지판에 적혀있지 않아 임시로 IC를 부기함."
+      }
+    },
+    {
+      "type": "node",
+      "id": 445273230,
+      "lat": 37.5278458,
+      "lon": 127.1950375,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하남분기점",
+        "name:en": "Hanam Junction",
+        "name:ko": "하남분기점",
+        "ref": "5",
+        "wikidata": "Q11553537",
+        "wikipedia": "ko:하남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 498837378,
+      "lat": 37.6417861,
+      "lon": 127.1319138,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "퇴계원",
+        "name:en": "Toegyewon",
+        "name:ko": "퇴계원",
+        "ref": "12",
+        "wikidata": "Q16098292",
+        "wikipedia": "ko:퇴계원 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 504037300,
+      "lat": 37.3251223,
+      "lon": 126.920381,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "군포",
+        "name:en": "Gunpo",
+        "name:ko": "군포",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 506868349,
+      "lat": 37.349713,
+      "lon": 126.8602304,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안산분기점",
+        "name:en": "Ansan JC",
+        "name:ko": "안산분기점",
+        "ref": "32"
+      }
+    },
+    {
+      "type": "node",
+      "id": 506868374,
+      "lat": 37.3432025,
+      "lon": 126.865427,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안산분기점",
+        "name:en": "Ansan JC",
+        "name:ko": "안산분기점",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 548042850,
+      "lat": 37.2312354,
+      "lon": 127.4284449,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop Junction",
+        "name:ko": "호법분기점",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 548043037,
+      "lat": 37.2408554,
+      "lon": 127.4251626,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop JC",
+        "name:ko": "호법분기점",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 558856668,
+      "lat": 37.2170605,
+      "lon": 127.0975883,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "기흥(동탄)",
+        "name:en": "Giheung(Dongtan)",
+        "name:ko": "기흥(동탄)",
+        "ref": "43",
+        "wikidata": "Q2924673",
+        "wikipedia": "ko:기흥동탄 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 558856724,
+      "lat": 37.2185447,
+      "lon": 127.0981795,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "기흥(동탄)",
+        "name:en": "Giheung(Dongtan)",
+        "name:ko": "기흥(동탄)",
+        "ref": "43B",
+        "wikidata": "Q2924673",
+        "wikipedia": "ko:기흥동탄 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 558884021,
+      "lat": 37.2668015,
+      "lon": 127.1036946,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "수원신갈",
+        "name:en": "Suwon-Singal",
+        "name:ko": "수원신갈",
+        "ref": "44"
+      }
+    },
+    {
+      "type": "node",
+      "id": 558884038,
+      "lat": 37.2831502,
+      "lon": 127.1038497,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "45A;45B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 558899141,
+      "lat": 37.3303789,
+      "lon": 127.1036042,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "죽전휴게소",
+        "name:en": "Jukjeon Service Station",
+        "name:ko": "죽전휴게소",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580529021,
+      "lat": 37.2417442,
+      "lon": 126.8820531,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "비봉",
+        "name:en": "Bibong",
+        "name:ko": "비봉",
+        "ref": "30",
+        "wikidata": "Q16096915",
+        "wikipedia": "ko:비봉 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580529056,
+      "lat": 37.243416,
+      "lon": 126.8821481,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "비봉",
+        "name:en": "Bibong",
+        "name:ko": "비봉",
+        "ref": "30",
+        "wikidata": "Q16096915",
+        "wikipedia": "ko:비봉 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580529883,
+      "lat": 37.2777355,
+      "lon": 126.897457,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "매송IC",
+        "name:en": "Maesong IC",
+        "name:ko": "매송IC",
+        "ref": "31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 580656209,
+      "lat": 37.3672931,
+      "lon": 126.8700095,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "33A;33B",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581730031,
+      "lat": 37.4037238,
+      "lon": 126.878592,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광명역",
+        "name:en": "Gwangmyeong Station",
+        "name:ko": "광명역",
+        "ref": "35",
+        "wikidata": "Q12584998",
+        "wikipedia": "ko:광명역 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581730795,
+      "lat": 37.4231821,
+      "lon": 126.8916087,
+      "tags": {
+        "exit_to": "성산대교;목포",
+        "highway": "motorway_junction",
+        "name": "일직분기점",
+        "name:en": "Iljik JC",
+        "name:ko": "일직분기점",
+        "ref": "13A;13B",
+        "wikidata": "Q11267877",
+        "wikipedia": "ko:일직 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581731175,
+      "lat": 37.4215967,
+      "lon": 126.8950878,
+      "tags": {
+        "destination": "인천;안양",
+        "highway": "motorway_junction",
+        "name": "일직분기점",
+        "name:en": "Iljik JC",
+        "name:ko": "일직분기점",
+        "ref": "36A;36B",
+        "wikidata": "Q11267877",
+        "wikipedia": "ko:일직 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581731521,
+      "lat": 37.4237024,
+      "lon": 126.897438,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "일직 분기점",
+        "name:en": "Iljik JC",
+        "name:ko": "일직 분기점",
+        "ref": "13",
+        "wikidata": "Q11267877",
+        "wikipedia": "ko:일직 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 581732355,
+      "lat": 37.4338137,
+      "lon": 126.8983396,
+      "tags": {
+        "destination": "수서",
+        "highway": "motorway_junction",
+        "name": "소하분기점",
+        "name:en": "Soha JC",
+        "name:ko": "소하분기점",
+        "ref": "37",
+        "wikidata": "Q25918162",
+        "wikipedia": "ko:소하 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595776357,
+      "lat": 37.5156244,
+      "lon": 127.0157288,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한남대교분기점",
+        "name:en": "Hannam Bridge Junction",
+        "name:ko": "한남대교분기점",
+        "noref": "yes",
+        "old_ref": "53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596482663,
+      "lat": 37.5311769,
+      "lon": 127.0420722,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성수대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596500100,
+      "lat": 37.5263936,
+      "lon": 127.0549938,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "영동대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596500173,
+      "lat": 37.5244925,
+      "lon": 127.058045,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "영동대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597181288,
+      "lat": 37.5086302,
+      "lon": 127.0680042,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청담대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597181414,
+      "lat": 37.5208916,
+      "lon": 127.0621237,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청담대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597233038,
+      "lat": 37.5181747,
+      "lon": 127.0682837,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청담IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597233226,
+      "lat": 37.5169768,
+      "lon": 127.08768,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "잠실대교 남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597233255,
+      "lat": 37.5329677,
+      "lon": 127.0607844,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청담대교 북단",
+        "name:ko": "청담대교 북단",
+        "ref": "20A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597323079,
+      "lat": 37.5340212,
+      "lon": 127.0270157,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동호대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 600371975,
+      "lat": 37.5335661,
+      "lon": 127.0588579,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "영동대교 북단",
+        "name:ko": "영동대교 북단",
+        "ref": "19B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 600372044,
+      "lat": 37.5345233,
+      "lon": 127.0550889,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "영동대교 북단",
+        "name:ko": "영동대교 북단",
+        "ref": "19A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601703729,
+      "lat": 37.5838494,
+      "lon": 126.8149635,
+      "tags": {
+        "destination:lang:ja": "88JCT",
+        "destination:lang:zh-Hans": "88分岔",
+        "destination:lang:zh-Hant": "88分岔",
+        "highway": "motorway_junction",
+        "name": "88분기점",
+        "name:en": "88 JC",
+        "name:ko": "88분기점",
+        "ref": "8",
+        "wikidata": "Q16093056",
+        "wikipedia": "ko:88 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601703779,
+      "lat": 37.5920582,
+      "lon": 126.8312946,
+      "tags": {
+        "destination:lang:ja": "北路JCT",
+        "destination:lang:zh-Hans": "北路分岔",
+        "destination:lang:zh-Hant": "北路分岔",
+        "highway": "motorway_junction",
+        "name": "북로 분기점",
+        "name:el": "Κόμβος (JC) Μπούνγκνο",
+        "name:en": "Bungno JC",
+        "name:ko": "북로 분기점",
+        "ref": "9",
+        "short_name": "북로JC",
+        "short_name:en": "Bungno JC",
+        "short_name:ko": "북로분기점",
+        "wikidata": "Q16096851",
+        "wikipedia": "ko:북로 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601704028,
+      "lat": 37.5817884,
+      "lon": 126.8260392,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "방화대교분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601704037,
+      "lat": 37.5827586,
+      "lon": 126.8234032,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "방화대교분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601728890,
+      "lat": 37.5324016,
+      "lon": 127.063815,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "영동대교 북단",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601729530,
+      "lat": 37.5322057,
+      "lon": 127.0628619,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청담대교 북단",
+        "name:ko": "청담대교 북단",
+        "ref": "20B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601792080,
+      "lat": 37.6072335,
+      "lon": 126.8128267,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "행주IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601792191,
+      "lat": 37.6049684,
+      "lon": 126.8210003,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "행주IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601792597,
+      "lat": 37.5967793,
+      "lon": 126.8323745,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북로분기점",
+        "name:en": "Bungno JC",
+        "name:ko": "북로분기점",
+        "wikidata": "Q16096851",
+        "wikipedia": "ko:북로 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601792792,
+      "lat": 37.5921935,
+      "lon": 126.8361138,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북로분기점",
+        "name:en": "Bungno JC",
+        "name:ko": "북로분기점",
+        "wikidata": "Q16096851",
+        "wikipedia": "ko:북로 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603367678,
+      "lat": 37.6323814,
+      "lon": 127.3066165,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "화도",
+        "name:en": "Hwado",
+        "name:ko": "화도",
+        "ref": "2",
+        "wikidata": "Q12625562",
+        "wikipedia": "ko:화도 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603367682,
+      "lat": 37.6311597,
+      "lon": 127.3148385,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "화도분기점",
+        "name:en": "Hwado Junction",
+        "name:ko": "화도분기점",
+        "ref": "2-1",
+        "start_date": "2024-02-07",
+        "wikidata": "Q28701038",
+        "wikipedia": "ko:화도 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603367694,
+      "lat": 37.6331338,
+      "lon": 127.3262664,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "화도분기점",
+        "name:en": "Hwado Junction",
+        "name:ko": "화도분기점",
+        "ref": "2-1A;2-1B",
+        "start_date": "2024-02-07",
+        "wikidata": "Q28701038",
+        "wikipedia": "ko:화도 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603367701,
+      "lat": 37.6312091,
+      "lon": 127.3151891,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "화도",
+        "name:en": "Hwado",
+        "name:ko": "화도",
+        "ref": "2",
+        "wikidata": "Q12625562",
+        "wikipedia": "ko:화도 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603367851,
+      "lat": 37.595528,
+      "lon": 127.212624,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "덕소삼패",
+        "name:en": "Deokso-Sampae",
+        "name:ko": "덕소삼패",
+        "ref": "1",
+        "wikidata": "Q12592810",
+        "wikipedia": "ko:덕소삼패 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603371506,
+      "lat": 37.6341494,
+      "lon": 127.3753296,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서종나들목",
+        "name:en": "Seojong Interchange",
+        "name:ko": "서종나들목",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603371644,
+      "lat": 37.6340278,
+      "lon": 127.3678732,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서종나들목",
+        "name:en": "Seojong Interchange",
+        "name:ko": "서종나들목",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606975747,
+      "lat": 37.621838,
+      "lon": 126.8023047,
+      "tags": {
+        "exit_to": "문산;킨텍스",
+        "highway": "motorway_junction",
+        "name": "자유로",
+        "name:en": "Jayuro",
+        "name:ko": "자유로",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 606980715,
+      "lat": 37.6387503,
+      "lon": 126.8047234,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "일산",
+        "name:en": "Ilsan",
+        "name:ko": "일산",
+        "ref": "18",
+        "wikidata": "Q12613687",
+        "wikipedia": "ko:일산 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608347409,
+      "lat": 37.4357975,
+      "lon": 126.8148151,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "11A;11B",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608347561,
+      "lat": 37.4377654,
+      "lon": 126.8143377,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "28A",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608347863,
+      "lat": 37.4539633,
+      "lon": 126.8006087,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "시흥",
+        "name:en": "Siheung",
+        "name:ko": "시흥",
+        "ref": "27",
+        "wikidata": "Q12604027",
+        "wikipedia": "ko:시흥 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608347954,
+      "lat": 37.437815,
+      "lon": 126.8164101,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "28A",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608347998,
+      "lat": 37.4392082,
+      "lon": 126.8206251,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "11",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608348019,
+      "lat": 37.4390052,
+      "lon": 126.8190314,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "11A;11B",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608348075,
+      "lat": 37.4371308,
+      "lon": 126.815786,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "11A",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608348158,
+      "lat": 37.4340431,
+      "lon": 126.8197724,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "28",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608348177,
+      "lat": 37.4353162,
+      "lon": 126.8190959,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "28A;28B",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608348438,
+      "lat": 37.4350636,
+      "lon": 126.8126604,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "11",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608349029,
+      "lat": 37.4402581,
+      "lon": 126.8135711,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안현분기점",
+        "name:en": "Anhyeon Junction",
+        "name:ko": "안현분기점",
+        "ref": "28",
+        "wikidata": "Q11257626",
+        "wikipedia": "ko:안현 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 614607118,
+      "lat": 37.4239253,
+      "lon": 126.9066837,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "석수",
+        "name:en": "Seoksu",
+        "name:ko": "석수",
+        "ref": "14B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 614607159,
+      "lat": 37.4235866,
+      "lon": 126.901288,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "석수",
+        "name:en": "Seoksu",
+        "name:ko": "석수",
+        "ref": "14A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 614825754,
+      "lat": 37.5394197,
+      "lon": 127.0388847,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성수대교분기점",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908028,
+      "lat": 37.3685391,
+      "lon": 126.8691794,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "29A",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908061,
+      "lat": 37.3689097,
+      "lon": 126.8687386,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "29B",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908086,
+      "lat": 37.3710206,
+      "lon": 126.8624848,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "29",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908089,
+      "lat": 37.3693951,
+      "lon": 126.8654002,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "29A",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908098,
+      "lat": 37.3652689,
+      "lon": 126.8679051,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "33A;33B",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908193,
+      "lat": 37.3686412,
+      "lon": 126.8737537,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "29A",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908382,
+      "lat": 37.3997823,
+      "lon": 126.8726074,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "목감",
+        "name:en": "Mokgam",
+        "name:ko": "목감",
+        "ref": "34",
+        "wikidata": "Q12595340",
+        "wikipedia": "ko:목감 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618908422,
+      "lat": 37.4054585,
+      "lon": 126.8820026,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광명역",
+        "name:en": "Gwangmyeong Station",
+        "name:ko": "광명역",
+        "ref": "35",
+        "wikidata": "Q12584998",
+        "wikipedia": "ko:광명역 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638266803,
+      "lat": 37.37333,
+      "lon": 126.8691191,
+      "tags": {
+        "destination": "100;판교,일산",
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "33A",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 650022432,
+      "lat": 37.3020091,
+      "lon": 127.0462472,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동수원",
+        "name:en": "East Suwon",
+        "name:ko": "동수원",
+        "ref": "12",
+        "wikidata": "Q10858497",
+        "wikipedia": "ko:동수원 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 650024087,
+      "lat": 37.3186197,
+      "lon": 126.9906606,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북수원IC",
+        "name:en": "N.Suwon IC",
+        "name:ko": "북수원IC",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 651274617,
+      "lat": 37.3285793,
+      "lon": 126.9420542,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동군포IC",
+        "name:en": "E.Gunpo IC",
+        "name:ko": "동군포IC",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 651276872,
+      "lat": 37.3230757,
+      "lon": 126.910476,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "둔대분기점",
+        "name:en": "Dundae JC",
+        "name:ko": "둔대분기점",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670173185,
+      "lat": 37.6576455,
+      "lon": 127.3663408,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "금남IC",
+        "name:en": "Geumnam IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670234967,
+      "lat": 37.5876227,
+      "lon": 126.8437547,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "육갑문"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670234970,
+      "lat": 37.5902502,
+      "lon": 126.838788,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "육갑문"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670266494,
+      "lat": 37.5716636,
+      "lon": 127.1617988,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일IC",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670266537,
+      "lat": 37.57314,
+      "lon": 127.1649819,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일",
+        "name:en": "Gangil",
+        "name:ko": "강일",
+        "old_name": "하일",
+        "ref": "7B",
+        "wikidata": "Q12583073",
+        "wikipedia": "ko:강일 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670266550,
+      "lat": 37.5733104,
+      "lon": 127.1661566,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일IC",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670266569,
+      "lat": 37.5722065,
+      "lon": 127.1680584,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일",
+        "name:en": "Gangil",
+        "name:ko": "강일",
+        "old_name": "하일",
+        "ref": "7A;7B",
+        "wikidata": "Q12583073",
+        "wikipedia": "ko:강일 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670266654,
+      "lat": 37.5820012,
+      "lon": 127.1582436,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "토평",
+        "name:en": "Topyeong",
+        "name:ko": "토평",
+        "ref": "8",
+        "wikidata": "Q12621194",
+        "wikipedia": "ko:토평 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 670266722,
+      "lat": 37.5846825,
+      "lon": 127.1565626,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "토평",
+        "name:en": "Topyeong",
+        "name:ko": "토평",
+        "ref": "8",
+        "wikidata": "Q12621194",
+        "wikipedia": "ko:토평 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 685222388,
+      "lat": 37.5310555,
+      "lon": 127.2964769,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조안 IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 685222471,
+      "lat": 37.4495303,
+      "lon": 127.264562,
+      "tags": {
+        "alt_name": "경기광주IC",
+        "highway": "motorway_junction",
+        "name": "광주IC",
+        "name:en": "Gwangju IC",
+        "name:ko": "광주IC",
+        "ref": "40"
+      }
+    },
+    {
+      "type": "node",
+      "id": 686440354,
+      "lat": 37.2416784,
+      "lon": 127.3648227,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "덕평IC",
+        "name:en": "Deokpyeong IC",
+        "name:ko": "덕평IC",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 686440374,
+      "lat": 37.2558478,
+      "lon": 127.2121304,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인IC",
+        "name:en": "Yongin IC",
+        "name:ko": "용인IC",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 686440563,
+      "lat": 37.240349,
+      "lon": 127.3812846,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "덕평자연휴게소",
+        "name:en": "Deokpyeong Natual Service Station",
+        "name:ko": "덕평자연휴게소",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 686460955,
+      "lat": 37.2586108,
+      "lon": 127.2050451,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인IC",
+        "name:en": "Yongin IC",
+        "name:ko": "용인IC",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728372697,
+      "lat": 37.3506133,
+      "lon": 126.8081003,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서안산IC",
+        "name:en": "W.Ansan IC",
+        "name:ko": "서안산IC",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728457006,
+      "lat": 37.2652082,
+      "lon": 126.9485494,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호매실",
+        "name:en": "Homaesil",
+        "name:ko": "호매실",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728457164,
+      "lat": 37.2596445,
+      "lon": 126.948709,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호매실",
+        "name:en": "Homaesil",
+        "name:ko": "호매실",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728606648,
+      "lat": 37.3477153,
+      "lon": 126.8374298,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안산IC",
+        "name:en": "Ansan IC",
+        "name:ko": "안산IC",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728606679,
+      "lat": 37.348603,
+      "lon": 126.840834,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안산IC",
+        "name:en": "Ansan IC",
+        "name:ko": "안산IC",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728632361,
+      "lat": 37.3780729,
+      "lon": 126.9549776,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "평촌",
+        "name:en": "Pyeongchon",
+        "name:ko": "평촌",
+        "ref": "31",
+        "wikidata": "Q12621816",
+        "wikipedia": "ko:평촌 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728632436,
+      "lat": 37.376519,
+      "lon": 126.9336214,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "산본",
+        "name:en": "Sanbon",
+        "name:ko": "산본",
+        "ref": "30",
+        "wikidata": "Q12600006",
+        "wikipedia": "ko:산본 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728632475,
+      "lat": 37.3759068,
+      "lon": 126.9321945,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "산본",
+        "name:en": "Sanbon",
+        "name:ko": "산본",
+        "ref": "30",
+        "wikidata": "Q12600006",
+        "wikipedia": "ko:산본 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728643854,
+      "lat": 37.2929531,
+      "lon": 126.9477403,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서수원IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728643888,
+      "lat": 37.2981634,
+      "lon": 126.9560121,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서수원",
+        "name:en": "West Suwon",
+        "name:ko": "서수원",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728644190,
+      "lat": 37.2927568,
+      "lon": 126.9567932,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서수원IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728644243,
+      "lat": 37.2887876,
+      "lon": 126.950781,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서수원",
+        "name:en": "West Suwon",
+        "name:ko": "서수원",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728690862,
+      "lat": 37.30656,
+      "lon": 126.9653848,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월암",
+        "name:en": "Woram",
+        "name:ko": "월암",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 728690970,
+      "lat": 37.3032811,
+      "lon": 126.9628693,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월암",
+        "name:en": "Woram",
+        "name:ko": "월암",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729255534,
+      "lat": 37.389165,
+      "lon": 127.0053281,
+      "tags": {
+        "destination": "309;과천,의왕",
+        "highway": "motorway_junction",
+        "name": "학의분기점",
+        "name:en": "Hagui Junction",
+        "name:ko": "학의분기점",
+        "ref": "32A;32B",
+        "wikidata": "Q12622646",
+        "wikipedia": "ko:학의 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729255650,
+      "lat": 37.3855465,
+      "lon": 126.9982727,
+      "tags": {
+        "destination": "309;과천,의왕",
+        "highway": "motorway_junction",
+        "name": "학의분기점",
+        "name:en": "Hagui Junction",
+        "name:ko": "학의분기점",
+        "ref": "32A;32B",
+        "wikidata": "Q12622646",
+        "wikipedia": "ko:학의 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729255753,
+      "lat": 37.3895152,
+      "lon": 127.0078761,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "학의분기점",
+        "name:en": "Hagui Junction",
+        "name:ko": "학의분기점",
+        "ref": "32",
+        "wikidata": "Q12622646",
+        "wikipedia": "ko:학의 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729255903,
+      "lat": 37.3917783,
+      "lon": 127.0030346,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "학의분기점",
+        "name:en": "Hagui JC",
+        "name:ko": "학의분기점",
+        "wikidata": "Q12622646",
+        "wikipedia": "ko:학의 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729256000,
+      "lat": 37.3714599,
+      "lon": 126.9977396,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청계",
+        "name:en": "Cheonggye",
+        "name:ko": "청계"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729256060,
+      "lat": 37.3856204,
+      "lon": 126.9951221,
+      "tags": {
+        "destination": "309;과천,의왕",
+        "highway": "motorway_junction",
+        "name": "학의분기점",
+        "name:en": "Hagui Junction",
+        "name:ko": "학의분기점",
+        "ref": "32",
+        "wikidata": "Q12622646",
+        "wikipedia": "ko:학의 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729260041,
+      "lat": 37.3433471,
+      "lon": 126.9802245,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "의왕",
+        "name:en": "Uiwang",
+        "name:ko": "의왕",
+        "ref": "1A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729260572,
+      "lat": 37.3373787,
+      "lon": 126.9741533,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "의왕",
+        "name:en": "Uiwang",
+        "name:ko": "의왕",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729260797,
+      "lat": 37.342831,
+      "lon": 126.9797003,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "의왕",
+        "name:en": "Uiwang",
+        "name:ko": "의왕",
+        "ref": "1B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729261958,
+      "lat": 37.3355584,
+      "lon": 126.9716627,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신부곡",
+        "name:en": "Sinbugok",
+        "name:ko": "신부곡",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 729262203,
+      "lat": 37.3290918,
+      "lon": 126.9661888,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신부곡",
+        "name:en": "Sinbugok",
+        "name:ko": "신부곡",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732030777,
+      "lat": 37.4854809,
+      "lon": 127.0251976,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서초",
+        "name:en": "Seocho",
+        "name:ko": "서초",
+        "noref": "yes",
+        "old_ref": "50",
+        "short_name": "서초IC",
+        "short_name:en": "Seocho IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732030799,
+      "lat": 37.4830327,
+      "lon": 127.0259947,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서초",
+        "name:en": "Seocho",
+        "name:ko": "서초",
+        "noref": "yes",
+        "old_ref": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732030981,
+      "lat": 37.4837981,
+      "lon": 127.0259984,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서초",
+        "name:en": "Seocho",
+        "name:ko": "서초",
+        "noref": "yes",
+        "old_ref": "50",
+        "short_name": "서초IC",
+        "short_name:en": "Seocho IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732033754,
+      "lat": 37.4232298,
+      "lon": 126.9973028,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "과천",
+        "name:en": "Gwacheon",
+        "name:ko": "과천"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732034311,
+      "lat": 37.4133346,
+      "lon": 126.9922653,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "과천",
+        "name:en": "Gwacheon",
+        "name:ko": "과천"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732065564,
+      "lat": 37.5428081,
+      "lon": 127.0290195,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성수대교 분기점",
+        "name:ko": "성수대교 분기점",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732066125,
+      "lat": 37.5433979,
+      "lon": 127.027517,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성수대교분기점",
+        "name:ko": "성수대교분기점",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732066513,
+      "lat": 37.4910624,
+      "lon": 127.103968,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "수서IC",
+        "name:en": "Suseo IC",
+        "name:ko": "수서IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732245596,
+      "lat": 37.5337289,
+      "lon": 127.0311682,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성수대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732247759,
+      "lat": 37.5520904,
+      "lon": 127.0450194,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "내부순환로분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732440634,
+      "lat": 37.5166405,
+      "lon": 127.0773949,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "종합운동장 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 732442109,
+      "lat": 37.5228078,
+      "lon": 127.1007042,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "잠실대교 남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 733126464,
+      "lat": 37.5273727,
+      "lon": 127.0816366,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "잠실대교 북단",
+        "name:ko": "잠실대교 북단",
+        "ref": "21",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 733126620,
+      "lat": 37.5301055,
+      "lon": 127.0910356,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "잠실대교 북단",
+        "ref": "21",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734789380,
+      "lat": 37.4617155,
+      "lon": 127.0417963,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양재",
+        "name:en": "Yangjae",
+        "name:ja": "良才",
+        "name:ko": "양재",
+        "ref": "49",
+        "wikidata": "Q2924611",
+        "wikipedia": "ko:양재 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734789403,
+      "lat": 37.4074177,
+      "lon": 127.1000413,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "판교분기점",
+        "name:en": "Pangyo Junction",
+        "name:ko": "판교분기점",
+        "ref": "1",
+        "short_name": "판교JC",
+        "short_name:en": "Pangyo JC",
+        "short_name:ko": "판교JC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734789524,
+      "lat": 37.4035496,
+      "lon": 127.0885946,
+      "tags": {
+        "destination": "1;대전,판교",
+        "highway": "motorway_junction",
+        "name": "판교분기점",
+        "name:en": "Pangyo Junction",
+        "name:ko": "판교분기점",
+        "ref": "1",
+        "short_name": "판교JC",
+        "short_name:en": "Pangyo JC",
+        "short_name:ko": "판교JC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734789596,
+      "lat": 37.4049779,
+      "lon": 127.0968603,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "판교분기점",
+        "name:en": "Pangyo Junction",
+        "name:ko": "판교분기점",
+        "ref": "48A;48B",
+        "wikidata": "Q11280538",
+        "wikipedia": "ko:판교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734789603,
+      "lat": 37.4627781,
+      "lon": 127.0404607,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양재IC",
+        "name:en": "Yangjae Interchange",
+        "name:ja": "良才IC",
+        "name:ko": "양재IC",
+        "old_ref": "49",
+        "wikidata": "Q2924611",
+        "wikipedia": "ko:양재 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734789643,
+      "lat": 37.465681,
+      "lon": 127.0377146,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양재IC",
+        "name:en": "Yangjae Interchange",
+        "name:ja": "良才IC",
+        "name:ko": "양재IC",
+        "old_ref": "49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734816404,
+      "lat": 37.432522,
+      "lon": 127.1234155,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성남",
+        "name:en": "Seongnam",
+        "name:ko": "성남",
+        "ref": "2A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734816405,
+      "lat": 37.4305016,
+      "lon": 127.1234019,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성남",
+        "name:en": "Seongnam",
+        "name:ko": "성남",
+        "ref": "2B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734968654,
+      "lat": 37.4734934,
+      "lon": 127.1270895,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "송파",
+        "name:en": "Songpa",
+        "name:ja": "松坡",
+        "name:ko": "송파",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734968944,
+      "lat": 37.477775,
+      "lon": 127.132918,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "송파",
+        "name:en": "Songpa",
+        "name:ja": "松坡",
+        "name:ko": "송파",
+        "ref": "3B;3A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797027810,
+      "lat": 37.5319144,
+      "lon": 127.1100377,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "올림픽대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797027851,
+      "lat": 37.5506671,
+      "lon": 127.1231507,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "암사분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797046958,
+      "lat": 37.5670628,
+      "lon": 127.1388498,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "암사IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797047028,
+      "lat": 37.5351086,
+      "lon": 127.1110158,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "올림픽대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797047029,
+      "lat": 37.5309536,
+      "lon": 127.1091991,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "올림픽대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 797051254,
+      "lat": 37.5263829,
+      "lon": 127.1059515,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "올림픽대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798556794,
+      "lat": 37.5049224,
+      "lon": 126.9760108,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동작대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798560466,
+      "lat": 37.5150006,
+      "lon": 126.9312631,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여의상류IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798563254,
+      "lat": 37.5381696,
+      "lon": 126.901674,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여의하류IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798566746,
+      "lat": 37.5550464,
+      "lon": 126.8740746,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "염창IC",
+        "name:ko": "염창IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798566890,
+      "lat": 37.5519135,
+      "lon": 126.8819483,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "염창분기점",
+        "name:ko": "염창분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798645945,
+      "lat": 37.5487454,
+      "lon": 126.9050611,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양화대교 북단",
+        "ref": "9A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798688628,
+      "lat": 37.5055133,
+      "lon": 126.9803087,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동작대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798708378,
+      "lat": 37.5169003,
+      "lon": 126.9898236,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "반포대교 북단",
+        "name:ko": "반포대교 북단",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 842906628,
+      "lat": 37.3208423,
+      "lon": 127.0854661,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 842906631,
+      "lat": 37.3198654,
+      "lon": 127.0889395,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 843344368,
+      "lat": 37.282705,
+      "lon": 127.1775545,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마성IC",
+        "name:en": "Maseong IC",
+        "name:ko": "마성IC",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 843344406,
+      "lat": 37.2838916,
+      "lon": 127.1731462,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마성IC",
+        "name:en": "Maseong IC",
+        "name:ko": "마성IC",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 846808318,
+      "lat": 37.4583474,
+      "lon": 127.021152,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "선암"
+      }
+    },
+    {
+      "type": "node",
+      "id": 852509490,
+      "lat": 37.6633113,
+      "lon": 127.2387829,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호평IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 872162529,
+      "lat": 37.5174616,
+      "lon": 127.0759045,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "종합운동장"
+      }
+    },
+    {
+      "type": "node",
+      "id": 969772830,
+      "lat": 37.5292303,
+      "lon": 127.0224277,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동호대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 969772834,
+      "lat": 37.5314157,
+      "lon": 127.0246535,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동호대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 978185053,
+      "lat": 37.6177431,
+      "lon": 127.1408716,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "구리",
+        "name:en": "Guri",
+        "name:ko": "구리",
+        "ref": "10A;10B",
+        "wikidata": "Q12585400",
+        "wikipedia": "ko:구리 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 978195398,
+      "lat": 37.6182348,
+      "lon": 127.1408623,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "구리",
+        "name:en": "Guri",
+        "name:ko": "구리",
+        "ref": "10",
+        "wikidata": "Q12585400",
+        "wikipedia": "ko:구리 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 999136435,
+      "lat": 37.5440337,
+      "lon": 127.1201522,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "천호대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 999136481,
+      "lat": 37.541268,
+      "lon": 127.1044583,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "천호대교 북단",
+        "name:ko": "천호대교 북단",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 999136510,
+      "lat": 37.547138,
+      "lon": 127.1214742,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "천호대교 남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 999136554,
+      "lat": 37.5374302,
+      "lon": 127.1140984,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "천호대교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 999136644,
+      "lat": 37.5479104,
+      "lon": 127.1104121,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광진교 북단",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 999136652,
+      "lat": 37.543485,
+      "lon": 127.1196102,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "ref": "A-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 999136676,
+      "lat": 37.5394812,
+      "lon": 127.1156737,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "ref": "A-2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000275654,
+      "lat": 37.6306027,
+      "lon": 126.8044227,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "일산",
+        "name:en": "Ilsan",
+        "name:ko": "일산",
+        "ref": "18",
+        "wikidata": "Q12613687",
+        "wikipedia": "ko:일산 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000367409,
+      "lat": 37.6735232,
+      "lon": 126.8928973,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "통일로",
+        "name:en": "Tongillo",
+        "name:ko": "통일로",
+        "ref": "16",
+        "wikidata": "Q12621257",
+        "wikipedia": "ko:통일로 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000488950,
+      "lat": 37.6161409,
+      "lon": 127.1723344,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도농IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000489114,
+      "lat": 37.6103271,
+      "lon": 127.1247808,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "인창IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000489163,
+      "lat": 37.6148216,
+      "lon": 127.1415403,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "구리",
+        "name:en": "Guri",
+        "name:ko": "구리",
+        "ref": "10B",
+        "wikidata": "Q12585400",
+        "wikipedia": "ko:구리 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000493460,
+      "lat": 37.6364424,
+      "lon": 127.1339763,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "퇴계원",
+        "name:en": "Toegyewon",
+        "name:ko": "퇴계원",
+        "ref": "12",
+        "wikidata": "Q16098292",
+        "wikipedia": "ko:퇴계원 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1019336044,
+      "lat": 37.534222,
+      "lon": 127.0959484,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "올림픽대교 북단",
+        "name:ko": "올림픽대교 북단",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1132441054,
+      "lat": 37.5123536,
+      "lon": 127.0026434,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "반포대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1132441060,
+      "lat": 37.5088412,
+      "lon": 126.9965084,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "반포대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1204137116,
+      "lat": 37.641082,
+      "lon": 127.3007856,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마석IC",
+        "name:ko": "마석IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1204137339,
+      "lat": 37.6436268,
+      "lon": 127.293537,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마석IC",
+        "name:ko": "마석IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280279569,
+      "lat": 37.2620243,
+      "lon": 127.1039771,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "수원신갈",
+        "name:en": "Suwon-Singal",
+        "name:ko": "수원신갈",
+        "ref": "44"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1509649332,
+      "lat": 37.3886334,
+      "lon": 126.8004351,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "연성IC",
+        "name:en": "Yeonseong IC",
+        "name:ko": "연성IC",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1509649405,
+      "lat": 37.3967251,
+      "lon": 126.8581634,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동시흥 분기점",
+        "name:en": "East Siheung Junction",
+        "name:ko": "동시흥 분기점",
+        "ref": "4",
+        "wikidata": "Q16096468",
+        "wikipedia": "ko:동시흥 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1658715710,
+      "lat": 37.6203618,
+      "lon": 127.2228312,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "율석",
+        "name:en": "Yulseok",
+        "name:ko": "율석",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1666195509,
+      "lat": 37.5279399,
+      "lon": 127.0074153,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한남대교 북단",
+        "name:ko": "한남대교 북단",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668416439,
+      "lat": 37.3921825,
+      "lon": 127.1017939,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "판교",
+        "name:en": "Pangyo",
+        "name:ko": "판교",
+        "ref": "47",
+        "wikidata": "Q2801204",
+        "wikipedia": "ko:판교 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668416604,
+      "lat": 37.3985996,
+      "lon": 127.0993383,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "판교",
+        "name:en": "Pangyo",
+        "name:ko": "판교",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668416669,
+      "lat": 37.4032863,
+      "lon": 127.0974735,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "판교분기점",
+        "name:en": "Pangyo Junction",
+        "name:ko": "판교분기점",
+        "ref": "48A;48B",
+        "wikidata": "Q11280538",
+        "wikipedia": "ko:판교 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1808903641,
+      "lat": 37.6164231,
+      "lon": 127.0987507,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신내IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1808903691,
+      "lat": 37.6469934,
+      "lon": 127.1629517,
+      "tags": {
+        "alt_name": "신진관IC",
+        "highway": "motorway_junction",
+        "name": "진관IC",
+        "name:ko": "진관IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1808903741,
+      "lat": 37.6117806,
+      "lon": 127.131574,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "인창IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1810879971,
+      "lat": 37.6411789,
+      "lon": 127.1434605,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "퇴계원IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1810879999,
+      "lat": 37.6450233,
+      "lon": 127.1589262,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "진관IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1810880183,
+      "lat": 37.6414484,
+      "lon": 127.1402365,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사노IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1810880223,
+      "lat": 37.6415364,
+      "lon": 127.1379681,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사노IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1814566615,
+      "lat": 37.2637799,
+      "lon": 127.0911537,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청명IC",
+        "name:ko": "청명IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1814802236,
+      "lat": 37.6134161,
+      "lon": 127.1360724,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동창교IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1853555274,
+      "lat": 37.5335236,
+      "lon": 127.0231667,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1880995733,
+      "lat": 37.5799729,
+      "lon": 127.1848206,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "미사교차로",
+        "name:ko": "미사교차로",
+        "noref": "yes",
+        "wikidata": "Q12596037",
+        "wikipedia": "ko:미사 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1936511974,
+      "lat": 37.6048549,
+      "lon": 127.0457506,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하월곡"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1936512278,
+      "lat": 37.6152691,
+      "lon": 127.0687784,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월릉IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1968737469,
+      "lat": 37.5909787,
+      "lon": 127.2055308,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "덕소삼패",
+        "name:en": "Deokso-Sampae",
+        "name:ko": "덕소삼패",
+        "ref": "1",
+        "wikidata": "Q12592810",
+        "wikipedia": "ko:덕소삼패 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1985633286,
+      "lat": 37.4365066,
+      "lon": 127.0015032,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "대공원",
+        "name:ko": "대공원"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1986207080,
+      "lat": 37.2218722,
+      "lon": 126.9611053,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "봉담",
+        "name:en": "Bongdam",
+        "name:ko": "봉담",
+        "ref": "1",
+        "wikidata": "Q12598573",
+        "wikipedia": "ko:봉담 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1986207139,
+      "lat": 37.228152,
+      "lon": 126.9578348,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "봉담",
+        "name:en": "Bongdam",
+        "name:ko": "봉담",
+        "ref": "1",
+        "wikidata": "Q12598573",
+        "wikipedia": "ko:봉담 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1986207158,
+      "lat": 37.2296658,
+      "lon": 126.9567568,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "봉담",
+        "name:en": "Bongdam",
+        "name:ko": "봉담",
+        "ref": "1",
+        "wikidata": "Q12598573",
+        "wikipedia": "ko:봉담 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1986207176,
+      "lat": 37.2305371,
+      "lon": 126.9554254,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "봉담",
+        "name:en": "Bongdam",
+        "name:ko": "봉담",
+        "ref": "1",
+        "wikidata": "Q12598573",
+        "wikipedia": "ko:봉담 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2135060914,
+      "lat": 37.5763798,
+      "lon": 127.0343777,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마장",
+        "name:ko": "마장",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139811760,
+      "lat": 37.5523062,
+      "lon": 126.9003312,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139811784,
+      "lat": 37.5523747,
+      "lon": 126.9007142,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성산대교북단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139811797,
+      "lat": 37.55786,
+      "lon": 126.8935403,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성산대교 북단",
+        "ref": "8C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139867164,
+      "lat": 37.558092,
+      "lon": 126.8940258,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성산대교 북단",
+        "ref": "8B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139867172,
+      "lat": 37.5602282,
+      "lon": 126.8909651,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성산대교 북단",
+        "ref": "8B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139867194,
+      "lat": 37.5558705,
+      "lon": 126.8963449,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성산대교 북단",
+        "ref": "8A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139941721,
+      "lat": 37.5438813,
+      "lon": 126.9264255,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서강대교 북단",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139941756,
+      "lat": 37.5431443,
+      "lon": 126.9303715,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서강대교 북단",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139941793,
+      "lat": 37.5320058,
+      "lon": 126.9489135,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "원효대교 북단",
+        "name:ko": "원효대교 북단",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139941819,
+      "lat": 37.5400862,
+      "lon": 126.9386933,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마포대교 북단",
+        "ref": "11A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139941823,
+      "lat": 37.5337488,
+      "lon": 126.9452338,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "원효로",
+        "name:ko": "원효로",
+        "ref": "11C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139941831,
+      "lat": 37.5375943,
+      "lon": 126.9420456,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마포대교 북단",
+        "ref": "11B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139941882,
+      "lat": 37.5369965,
+      "lon": 126.9410896,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "마포대교 북단",
+        "ref": "11B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140316063,
+      "lat": 37.5160691,
+      "lon": 126.9798461,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동작대교 북단",
+        "name:ko": "동작대교 북단",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140345666,
+      "lat": 37.5459243,
+      "lon": 127.0336295,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강변북로분기점",
+        "name:ko": "강변북로분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140367675,
+      "lat": 37.5293054,
+      "lon": 126.9103959,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여의하류IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2141595983,
+      "lat": 37.561498,
+      "lon": 126.8881755,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "name:ko": "한강공원입구",
+        "ref": "H-3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2141596006,
+      "lat": 37.5734345,
+      "lon": 126.8684717,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "가양대교 북단",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2141596017,
+      "lat": 37.578478,
+      "lon": 126.8591141,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "가양대교북단",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2141616459,
+      "lat": 37.567046,
+      "lon": 126.8560901,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "가양대교남단",
+        "name:ko": "가양대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2141616462,
+      "lat": 37.5637587,
+      "lon": 126.8623439,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "가양대교남단",
+        "name:ko": "가양대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2141616520,
+      "lat": 37.5633748,
+      "lon": 126.862834,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "가양대교분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147567559,
+      "lat": 37.5718233,
+      "lon": 126.9215711,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "연희",
+        "name:ko": "연희",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147567567,
+      "lat": 37.5651285,
+      "lon": 126.9098761,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성산",
+        "name:ko": "성산",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147567580,
+      "lat": 37.5950604,
+      "lon": 126.9491324,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "홍은",
+        "name:ko": "홍은",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147567601,
+      "lat": 37.586592,
+      "lon": 126.935487,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "홍제",
+        "name:ko": "홍제",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147578786,
+      "lat": 37.5951352,
+      "lon": 127.0404595,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월곡",
+        "name:en": "Wolgok",
+        "name:ko": "월곡",
+        "ref": "8A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147578788,
+      "lat": 37.6026892,
+      "lon": 127.0343805,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하월곡분기점",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2147578840,
+      "lat": 37.6014956,
+      "lon": 127.0397635,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월곡",
+        "name:ko": "월곡",
+        "ref": "8B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2150015093,
+      "lat": 37.3948749,
+      "lon": 127.232872,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "태전분기점",
+        "name:en": "Taejeon JC",
+        "name:ko": "태전분기점",
+        "ref": "5A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2150015148,
+      "lat": 37.4168497,
+      "lon": 127.1585025,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "섬말",
+        "name:en": "Seommal",
+        "name:ko": "섬말",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2150015202,
+      "lat": 37.3816759,
+      "lon": 127.2897112,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "쌍동분기점",
+        "name:en": "Ssangdong JC",
+        "name:ko": "쌍동분기점",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2150015203,
+      "lat": 37.3598561,
+      "lon": 127.3667575,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "열미",
+        "name:ko": "열미",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2244637670,
+      "lat": 37.5033546,
+      "lon": 127.0185355,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "반포IC",
+        "name:en": "Banpo Interchange",
+        "name:ko": "반포IC",
+        "noref": "yes",
+        "old_name": "51",
+        "short_name": "반포IC",
+        "short_name:en": "Banpo IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2352518082,
+      "lat": 37.5248972,
+      "lon": 126.8314189,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신월",
+        "name:en": "Sinwol",
+        "name:ko": "신월",
+        "ref": "7",
+        "wikidata": "Q22974303",
+        "wikipedia": "ko:신월 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2370166905,
+      "lat": 37.2658138,
+      "lon": 127.1916173,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인분기점",
+        "name:en": "West Yongin Junction",
+        "name:ko": "서용인분기점",
+        "ref": "16",
+        "wikidata": "Q28699989",
+        "wikipedia": "ko:서용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2614487887,
+      "lat": 37.5436385,
+      "lon": 126.8927927,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "name:ko": "한강공원입구",
+        "ref": "F-2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2614487899,
+      "lat": 37.5476045,
+      "lon": 126.8887979,
+      "tags": {
+        "alt_name": "성산대교분기점",
+        "highway": "motorway_junction",
+        "name": "성산대교남단",
+        "name:ko": "성산대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2618197768,
+      "lat": 37.4696776,
+      "lon": 126.9831179,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사당IC",
+        "name:en": "Sadang IC",
+        "name:ko": "사당IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2618210025,
+      "lat": 37.4699109,
+      "lon": 126.9489342,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "관악IC",
+        "name:en": "Gwanak IC",
+        "name:ja": "冠岳IC",
+        "name:ko": "관악IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2814707110,
+      "lat": 37.4825089,
+      "lon": 126.8746243,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2817618262,
+      "lat": 37.4613381,
+      "lon": 127.041805,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서울만남의광장휴게소",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2820314812,
+      "lat": 37.5393528,
+      "lon": 126.8898241,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2820817913,
+      "lat": 37.403848,
+      "lon": 127.0965164,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "판교",
+        "name:en": "Pangyo",
+        "name:ko": "판교",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2820956866,
+      "lat": 37.3592413,
+      "lon": 127.0633424,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서분당(고기)",
+        "name:en": "West Bundang (Gogi)",
+        "name:ko": "서분당(고기)",
+        "ref": "4",
+        "wikidata": "Q4742936",
+        "wikipedia": "ko:서분당 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2821340850,
+      "lat": 37.2900617,
+      "lon": 127.1028813,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "13B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2849867812,
+      "lat": 37.649523,
+      "lon": 127.1242367,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "별내",
+        "name:en": "Byeollae",
+        "name:ko": "별내",
+        "ref": "13",
+        "wikidata": "Q16096603",
+        "wikipedia": "ko:별내 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3016908836,
+      "lat": 37.5170361,
+      "lon": 127.0808262,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "종합운동장 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3194526203,
+      "lat": 37.4879974,
+      "lon": 126.8727178,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광명교",
+        "name:ko": "광명교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3200324836,
+      "lat": 37.393346,
+      "lon": 126.8384192,
+      "tags": {
+        "destination": "100;일산,판교",
+        "highway": "motorway_junction",
+        "name": "도리분기점",
+        "name:ko": "도리분기점",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3201248081,
+      "lat": 37.3989255,
+      "lon": 126.8449976,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도리분기점",
+        "name:en": "Dori Junction",
+        "name:ko": "도리분기점",
+        "ref": "28-1",
+        "wikidata": "Q12592984",
+        "wikipedia": "ko:도리 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3201248106,
+      "lat": 37.3943828,
+      "lon": 126.8502948,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도리분기점",
+        "name:en": "Dori Junction",
+        "name:ko": "도리분기점",
+        "ref": "28-1",
+        "wikidata": "Q12592984",
+        "wikipedia": "ko:도리 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3252208369,
+      "lat": 37.5994748,
+      "lon": 126.835799,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "행주산성 분기점",
+        "name:el": "Κόμβος (JC) Χένγκτζουσανσονγκ",
+        "name:en": "Haengjusanseong JC",
+        "name:ko": "행주산성 분기점",
+        "wikidata": "Q109461757",
+        "wikipedia": "ko:행주산성 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3529515276,
+      "lat": 37.3242285,
+      "lon": 127.0757724,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3530861988,
+      "lat": 37.3200009,
+      "lon": 127.0543804,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서수지",
+        "name:en": "West Suji",
+        "name:ko": "서수지",
+        "ref": "3",
+        "wikidata": "Q12601006",
+        "wikipedia": "ko:서수지 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3541754893,
+      "lat": 37.3020713,
+      "lon": 127.058087,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광교·상현",
+        "name:en": "Gwanggyo-Sanghyeon",
+        "name:ko": "광교·상현",
+        "ref": "2",
+        "wikidata": "Q4742919",
+        "wikipedia": "ko:광교상현 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3541793373,
+      "lat": 37.2971083,
+      "lon": 127.0607868,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3645492144,
+      "lat": 37.5163314,
+      "lon": 126.941262,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여의상류IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3645492216,
+      "lat": 37.5174228,
+      "lon": 126.9425895,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여의상류IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3663115137,
+      "lat": 37.4384559,
+      "lon": 126.898819,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "소하분기점",
+        "name:ko": "소하분기점",
+        "wikidata": "Q25918162",
+        "wikipedia": "ko:소하 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702211227,
+      "lat": 37.3281576,
+      "lon": 127.0642254,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702896849,
+      "lat": 37.3260541,
+      "lon": 127.0677041,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702901662,
+      "lat": 37.3263656,
+      "lon": 127.0669646,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3736331399,
+      "lat": 37.5723838,
+      "lon": 127.1637999,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일IC",
+        "name:ko": "강일IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3736801812,
+      "lat": 37.5755634,
+      "lon": 127.1692427,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강일분기점",
+        "name:en": "Gangil Junction",
+        "name:ko": "강일분기점",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3770475770,
+      "lat": 37.3016782,
+      "lon": 126.9355108,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동안산·당수",
+        "name:en": "E.Ansan·Dangsu",
+        "name:ko": "동안산·당수",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3770565219,
+      "lat": 37.3900293,
+      "lon": 126.8663262,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동시흥 분기점",
+        "name:en": "East Siheung Junction",
+        "name:ko": "동시흥 분기점",
+        "ref": "4",
+        "wikidata": "Q16096468",
+        "wikipedia": "ko:동시흥 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3770565221,
+      "lat": 37.4112596,
+      "lon": 126.8576935,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남광명분기점",
+        "name:en": "South Gwangmyeong JC",
+        "name:ko": "남광명분기점",
+        "ref": "5",
+        "wikidata": "Q16093146",
+        "wikipedia": "ko:남광명 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3782820401,
+      "lat": 37.4441985,
+      "lon": 127.0035852,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광창",
+        "note": "교차로 이름이 표지판에 적혀있지 않아 임시로 IC를 부기함."
+      }
+    },
+    {
+      "type": "node",
+      "id": 3812585817,
+      "lat": 37.3289119,
+      "lon": 126.9326546,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동군포IC",
+        "name:en": "E.Gunpo IC",
+        "name:ko": "동군포IC",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838292904,
+      "lat": 37.3911797,
+      "lon": 127.0703668,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서판교",
+        "name:en": "West Pangyo",
+        "name:ko": "서판교",
+        "ref": "5",
+        "wikidata": "Q4742944",
+        "wikipedia": "ko:서판교 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838308751,
+      "lat": 37.3853185,
+      "lon": 127.0694907,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서판교",
+        "name:en": "West Pangyo",
+        "name:ko": "서판교",
+        "ref": "5",
+        "wikidata": "Q4742944",
+        "wikipedia": "ko:서판교 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3849662665,
+      "lat": 37.6309743,
+      "lon": 127.064983,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월계1교",
+        "name:ko": "월계1교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3953896627,
+      "lat": 37.3228229,
+      "lon": 126.9627458,
+      "tags": {
+        "destination": "1;부곡,의왕",
+        "highway": "motorway_junction",
+        "name": "부곡IC",
+        "name:en": "Bugok IC",
+        "name:ko": "부곡IC",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3953908702,
+      "lat": 37.3671166,
+      "lon": 126.9993441,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "청계",
+        "name:en": "Cheonggye",
+        "name:ko": "청계"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3958775781,
+      "lat": 37.3937442,
+      "lon": 127.2373504,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "태전분기점",
+        "name:en": "Taejeon JC",
+        "name:ko": "태전분기점",
+        "ref": "5A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3958775782,
+      "lat": 37.3941519,
+      "lon": 127.2353936,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "태전분기점",
+        "name:en": "Taejeon JC",
+        "name:ko": "태전분기점",
+        "ref": "5B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3958775787,
+      "lat": 37.3941928,
+      "lon": 127.2356995,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "태전분기점",
+        "name:en": "Taejeon JC",
+        "name:ko": "태전분기점",
+        "ref": "5B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3960248161,
+      "lat": 37.6648819,
+      "lon": 127.1535188,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "임송IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3960249959,
+      "lat": 37.6901159,
+      "lon": 127.1662217,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "연평IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3974233423,
+      "lat": 37.4253766,
+      "lon": 127.1235146,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성남",
+        "name:en": "Seongnam",
+        "name:ko": "성남",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4051681435,
+      "lat": 37.420715,
+      "lon": 127.1548904,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "대원",
+        "name:en": "Daewon",
+        "name:ko": "대원",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4154680066,
+      "lat": 37.4352746,
+      "lon": 126.8937083,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "소하",
+        "name:en": "Soha",
+        "name:ko": "소하",
+        "ref": "6",
+        "wikidata": "Q16097944",
+        "wikipedia": "ko:소하 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225591849,
+      "lat": 37.3954933,
+      "lon": 126.8634958,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동시흥 분기점",
+        "name:en": "East Siheung Junction",
+        "name:ko": "동시흥 분기점",
+        "ref": "4",
+        "wikidata": "Q16096468",
+        "wikipedia": "ko:동시흥 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225591860,
+      "lat": 37.3962502,
+      "lon": 126.8550427,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동시흥 분기점",
+        "name:en": "East Siheung Junction",
+        "name:ko": "동시흥 분기점",
+        "ref": "4",
+        "wikidata": "Q16096468",
+        "wikipedia": "ko:동시흥 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4278630539,
+      "lat": 37.4382833,
+      "lon": 126.9058626,
+      "tags": {
+        "destination": "금천;안양",
+        "highway": "motorway_junction",
+        "name": "금천램프",
+        "name:en": "Geumcheon Ramp",
+        "name:ko": "금천램프"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4278630562,
+      "lat": 37.4662333,
+      "lon": 126.9452824,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "관악IC",
+        "name:en": "Gwanak IC",
+        "name:ko": "관악IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4278630743,
+      "lat": 37.4711503,
+      "lon": 126.9579292,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "낙성대JC",
+        "name:en": "Nakseongdae JC",
+        "name:ja": "落星垈JC",
+        "name:ko": "낙성대JC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4282512565,
+      "lat": 37.4027713,
+      "lon": 127.2056143,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "직동",
+        "name:en": "Jikdong",
+        "name:ko": "직동",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4288623522,
+      "lat": 37.4625842,
+      "lon": 126.888677,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "금천 나들목",
+        "name:en": "Geumcheon Interchange",
+        "name:ko": "금천 나들목",
+        "ref": "1",
+        "wikidata": "Q12586572",
+        "wikipedia": "ko:금천 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4309664511,
+      "lat": 37.4106239,
+      "lon": 127.089584,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "대왕판교",
+        "name:en": "Daewang-Pangyo",
+        "name:ko": "대왕판교",
+        "ref": "48",
+        "wikidata": "Q12591642",
+        "wikipedia": "ko:대왕판교 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524183792,
+      "lat": 37.3716338,
+      "lon": 127.3200141,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "초월IC",
+        "name:en": "Chowol IC",
+        "name:ko": "초월IC",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524183799,
+      "lat": 37.379914,
+      "lon": 127.2974747,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "쌍동분기점",
+        "name:en": "Ssangdong JC",
+        "name:ko": "쌍동분기점",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524248795,
+      "lat": 37.3841242,
+      "lon": 127.3153203,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "경기광주분기점",
+        "name:en": "Gyeonggi-Gwangju JC",
+        "name:ko": "경기광주분기점",
+        "ref": "39-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524248798,
+      "lat": 37.3857886,
+      "lon": 127.3155373,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "경기광주분기점",
+        "name:en": "Gyeonggi-Gwangju JC",
+        "name:ko": "경기광주분기점",
+        "ref": "39-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524553943,
+      "lat": 37.3810187,
+      "lon": 127.3972368,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동곤지암IC",
+        "name:en": "E.Gonjiam IC",
+        "name:ko": "동곤지암IC",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524553985,
+      "lat": 37.380601,
+      "lon": 127.4039958,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동곤지암IC",
+        "name:en": "E.Gonjiam IC",
+        "name:ko": "동곤지암IC",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4588373241,
+      "lat": 37.3192166,
+      "lon": 127.0907332,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4588373256,
+      "lat": 37.3205517,
+      "lon": 127.0864899,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4593528521,
+      "lat": 37.5300656,
+      "lon": 126.9523442,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "원효대교 북단",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4634436552,
+      "lat": 37.3227536,
+      "lon": 126.9273004,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남군포",
+        "name:en": "S.Gunpo",
+        "name:ko": "남군포",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4634436578,
+      "lat": 37.3274104,
+      "lon": 126.9247825,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남군포",
+        "name:en": "S.Gunpo",
+        "name:ko": "남군포",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4658300879,
+      "lat": 37.2941959,
+      "lon": 126.9431225,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "당수IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4662675009,
+      "lat": 37.5309304,
+      "lon": 127.213692,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하남IC",
+        "name:en": "Hanam IC",
+        "name:ko": "하남IC",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4684562294,
+      "lat": 37.5625464,
+      "lon": 126.8868661,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성산대교분기점",
+        "ref": "8A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4687440852,
+      "lat": 37.3235595,
+      "lon": 126.9609935,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "부곡IC",
+        "name:en": "Bugok IC",
+        "name:ko": "부곡IC",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692148960,
+      "lat": 37.517465,
+      "lon": 127.0789194,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "ref": "B-2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4724201444,
+      "lat": 37.2464841,
+      "lon": 127.2646006,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인분기점",
+        "name:en": "Yongin Junction",
+        "name:ko": "용인분기점",
+        "ref": "18A;18B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732390",
+        "wikipedia": "ko:용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4724201528,
+      "lat": 37.2397724,
+      "lon": 127.2953663,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양지IC",
+        "name:en": "Yangji IC",
+        "name:ko": "양지IC",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4777131199,
+      "lat": 37.5972486,
+      "lon": 126.8575009,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "현천IC",
+        "name:ko": "현천IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4777131201,
+      "lat": 37.5952356,
+      "lon": 126.8638243,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "현천IC",
+        "name:ko": "현천IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4798818967,
+      "lat": 37.4032556,
+      "lon": 127.1905764,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "직동",
+        "name:en": "Jikdong",
+        "name:ko": "직동",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4819734523,
+      "lat": 37.4704864,
+      "lon": 126.9881655,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사당IC",
+        "name:en": "Sadang IC",
+        "name:ko": "사당IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4829823371,
+      "lat": 37.2422685,
+      "lon": 127.3621768,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "덕평IC",
+        "name:en": "Deokpyeong IC",
+        "name:ko": "덕평IC",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4861047159,
+      "lat": 37.2789374,
+      "lon": 126.9505264,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "금곡",
+        "name:en": "Geumgok",
+        "name:ko": "금곡"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4878439231,
+      "lat": 37.2894721,
+      "lon": 126.9486338,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "금곡IC",
+        "name:en": "Geumgok IC",
+        "name:ko": "금곡IC",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4925428587,
+      "lat": 37.3261744,
+      "lon": 126.9228857,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "군포",
+        "name:en": "Gunpo",
+        "name:ko": "군포",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945380220,
+      "lat": 37.2498194,
+      "lon": 126.9500668,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "천천",
+        "name:en": "Cheoncheon",
+        "name:ko": "천천",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945383900,
+      "lat": 37.234568,
+      "lon": 126.860144,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양노",
+        "name:en": "Yangno",
+        "name:ko": "양노",
+        "ref": "1B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945405252,
+      "lat": 37.2418424,
+      "lon": 126.9346279,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "샘내",
+        "name:en": "Saemnae",
+        "name:ko": "샘내",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945405258,
+      "lat": 37.2489184,
+      "lon": 126.9457785,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "천천",
+        "name:en": "Cheoncheon",
+        "name:ko": "천천",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945414479,
+      "lat": 37.2363514,
+      "lon": 126.9188373,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "내리",
+        "name:en": "Naeri",
+        "name:ko": "내리",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945444972,
+      "lat": 37.231666,
+      "lon": 126.8823677,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "백학",
+        "name:en": "Baekhak",
+        "name:ko": "백학",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945474005,
+      "lat": 37.2327981,
+      "lon": 126.8628673,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양노",
+        "name:en": "Yangno",
+        "name:ko": "양노",
+        "ref": "1A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4946570458,
+      "lat": 37.2308766,
+      "lon": 126.9004317,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "쌍학간이IC",
+        "name:en": "Ssanghak IC",
+        "name:ko": "쌍학간이IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4946943933,
+      "lat": 37.2534704,
+      "lon": 126.9492102,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "천천",
+        "name:en": "Cheoncheon",
+        "name:ko": "천천",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948700341,
+      "lat": 37.5769059,
+      "lon": 127.1433724,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남구리",
+        "name:en": "South Guri",
+        "name:ko": "남구리"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948710685,
+      "lat": 37.5785248,
+      "lon": 127.1369094,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남구리",
+        "name:en": "South Guri",
+        "name:ko": "남구리",
+        "ref": "1B",
+        "wikidata": "Q28699606",
+        "wikipedia": "ko:남구리 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4949964191,
+      "lat": 37.5757926,
+      "lon": 127.1354532,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남구리",
+        "name:en": "South Guri",
+        "name:ko": "남구리"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4949964193,
+      "lat": 37.5786323,
+      "lon": 127.1327035,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남구리",
+        "name:en": "South Guri",
+        "name:ko": "남구리",
+        "ref": "1A",
+        "wikidata": "Q28699606",
+        "wikipedia": "ko:남구리 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4949967657,
+      "lat": 37.6109522,
+      "lon": 127.1147492,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중랑",
+        "name:en": "Jungnang",
+        "name:ko": "중랑",
+        "ref": "2",
+        "wikidata": "Q28699610",
+        "wikipedia": "ko:중랑 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4949967677,
+      "lat": 37.6149227,
+      "lon": 127.1135594,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중랑IC",
+        "name:en": "Jungnang IC",
+        "name:ko": "중랑IC",
+        "ref": "2A;2B",
+        "wikidata": "Q28699610",
+        "wikipedia": "ko:중랑 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002996941,
+      "lat": 37.4245067,
+      "lon": 126.9093969,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "석수",
+        "name:en": "Seoksu",
+        "name:ko": "석수",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002996957,
+      "lat": 37.4243352,
+      "lon": 126.89493,
+      "tags": {
+        "destination": "안양;성남",
+        "highway": "motorway_junction",
+        "name": "일직분기점",
+        "name:en": "Iljik JC",
+        "name:ko": "일직분기점",
+        "ref": "36B",
+        "wikidata": "Q11267877",
+        "wikipedia": "ko:일직 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002996975,
+      "lat": 37.4251514,
+      "lon": 126.9114163,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "삼막",
+        "name:en": "Sammak",
+        "name:ko": "삼막",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5002996989,
+      "lat": 37.4289442,
+      "lon": 126.9160925,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "삼막",
+        "name:en": "Sammak",
+        "name:ko": "삼막",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5004958704,
+      "lat": 37.4099648,
+      "lon": 127.1034164,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동판교",
+        "name:en": "East Pangyo",
+        "name:ko": "동판교",
+        "ref": "19A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5005001574,
+      "lat": 37.404543,
+      "lon": 126.991258,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북의왕",
+        "name:en": "N.Uiwang",
+        "name:ko": "북의왕",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5030139125,
+      "lat": 37.635763,
+      "lon": 127.1270092,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중랑",
+        "name:en": "Jungnang",
+        "name:ko": "중랑",
+        "ref": "2A;2B",
+        "wikidata": "Q28699610",
+        "wikipedia": "ko:중랑 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5030139137,
+      "lat": 37.613861,
+      "lon": 127.108139,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중랑IC",
+        "wikidata": "Q28699610",
+        "wikipedia": "ko:중랑 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5064149745,
+      "lat": 37.2080802,
+      "lon": 127.1259298,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중리교차로",
+        "name:ko": "중리교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5105216831,
+      "lat": 37.4121959,
+      "lon": 127.1051645,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동판교",
+        "name:en": "East Pangyo",
+        "name:ko": "동판교",
+        "ref": "19B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5105216881,
+      "lat": 37.4225858,
+      "lon": 127.1322249,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "성남시청교차로",
+        "name:en": "Seongnam City Hall JC",
+        "name:ko": "성남시청교차로",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5110646345,
+      "lat": 37.4080357,
+      "lon": 126.9843624,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북의왕",
+        "name:en": "N.Uiwang",
+        "name:ko": "북의왕",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119580381,
+      "lat": 37.3724839,
+      "lon": 127.3192974,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "경기광주분기점",
+        "name:en": "Gyeonggi-Gwangju JC",
+        "name:ko": "경기광주분기점",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119580382,
+      "lat": 37.3747084,
+      "lon": 127.3282437,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "초월IC",
+        "name:en": "Chowol Interchange",
+        "name:ko": "초월 나들목",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5127675708,
+      "lat": 37.6078689,
+      "lon": 127.0013141,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "정릉",
+        "name:en": "Jeongneung",
+        "name:ko": "정릉",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5127675719,
+      "lat": 37.6043403,
+      "lon": 127.0268655,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "길음",
+        "name:ko": "길음",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5129892267,
+      "lat": 37.570686,
+      "lon": 127.1250938,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "아천IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5141276694,
+      "lat": 37.6107582,
+      "lon": 127.1191684,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중랑IC",
+        "wikidata": "Q28699610",
+        "wikipedia": "ko:중랑 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5209069968,
+      "lat": 37.6092586,
+      "lon": 126.9974291,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "국민대입구",
+        "name:ko": "국민대입구",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5213385491,
+      "lat": 37.3775601,
+      "lon": 126.9981467,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "학의분기점",
+        "name:ko": "학의분기점",
+        "wikidata": "Q12622646",
+        "wikipedia": "ko:학의 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5235882938,
+      "lat": 37.3861499,
+      "lon": 126.8682086,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "목감휴게소",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5257075105,
+      "lat": 37.6803397,
+      "lon": 127.1133206,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서별내IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5257143948,
+      "lat": 37.6803403,
+      "lon": 127.1088262,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서별내IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5257144013,
+      "lat": 37.6868376,
+      "lon": 127.133375,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동별내IC",
+        "name:en": "E.Byeollae IC",
+        "name:ko": "동별내IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5257155473,
+      "lat": 37.6687632,
+      "lon": 127.1366713,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남별내",
+        "name:en": "South Byeollae",
+        "name:ko": "남별내",
+        "ref": "3",
+        "wikidata": "Q28699609",
+        "wikipedia": "ko:남별내 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5257156121,
+      "lat": 37.6747702,
+      "lon": 127.138005,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남별내",
+        "name:en": "South Byeollae",
+        "name:ko": "남별내",
+        "ref": "3",
+        "wikidata": "Q28699609",
+        "wikipedia": "ko:남별내 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5262194396,
+      "lat": 37.6252292,
+      "lon": 127.1394326,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5262196258,
+      "lat": 37.6120095,
+      "lon": 127.1428207,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "구리",
+        "name:en": "Guri",
+        "name:ko": "구리",
+        "ref": "10",
+        "wikidata": "Q12585400",
+        "wikipedia": "ko:구리 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5262285885,
+      "lat": 37.6153119,
+      "lon": 127.2094743,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "무대",
+        "name:en": "Mudae",
+        "name:ko": "무대",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5262286756,
+      "lat": 37.6482594,
+      "lon": 127.2503128,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "평내",
+        "name:en": "Pyeongnae",
+        "name:ko": "평내",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5262977172,
+      "lat": 37.6493473,
+      "lon": 127.3366425,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월산IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5271225604,
+      "lat": 37.6487915,
+      "lon": 127.1768692,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "먹골교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5296017758,
+      "lat": 37.2912272,
+      "lon": 127.3777187,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5296017767,
+      "lat": 37.2937925,
+      "lon": 127.3793626,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신둔IC",
+        "ref": "38-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5296017780,
+      "lat": 37.2906354,
+      "lon": 127.3789533,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5298323588,
+      "lat": 37.6088602,
+      "lon": 127.191082,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "이패",
+        "name:en": "Ipae",
+        "name:ko": "이패",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5298340021,
+      "lat": 37.6485705,
+      "lon": 127.1710313,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "먹골교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5298340049,
+      "lat": 37.646544,
+      "lon": 127.1910546,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사릉IC",
+        "name:ko": "사릉IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5298867163,
+      "lat": 37.5963791,
+      "lon": 127.1778638,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "수석",
+        "name:en": "Suseok",
+        "name:ko": "수석",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5298909317,
+      "lat": 37.5746371,
+      "lon": 127.1318094,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "아천IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299374069,
+      "lat": 37.6610445,
+      "lon": 127.1556429,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신월교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299375677,
+      "lat": 37.657375,
+      "lon": 127.1586442,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신월교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299375714,
+      "lat": 37.6495891,
+      "lon": 127.161167,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "구진관IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299446733,
+      "lat": 37.4148067,
+      "lon": 126.8597237,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남광명분기점",
+        "name:en": "South Gwangmyeong JC",
+        "name:ko": "남광명분기점",
+        "ref": "5A;5B",
+        "wikidata": "Q16093146",
+        "wikipedia": "ko:남광명 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5301224349,
+      "lat": 37.5333773,
+      "lon": 127.3046098,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조안 IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5336116320,
+      "lat": 37.6957157,
+      "lon": 127.1659689,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "연평IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5336898691,
+      "lat": 37.2150823,
+      "lon": 127.2045829,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "대촌분기점",
+        "name:ko": "대촌분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5336898703,
+      "lat": 37.2289518,
+      "lon": 127.1837325,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "명지",
+        "name:en": "Myeongji",
+        "name:ko": "명지"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5336906352,
+      "lat": 37.2711577,
+      "lon": 127.1124479,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "상갈",
+        "name:en": "Sanggal",
+        "name:ko": "상갈"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5340005994,
+      "lat": 37.4773901,
+      "lon": 127.2458724,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "산곡분기점",
+        "name:en": "Sangok JC",
+        "name:ko": "산곡분기점",
+        "ref": "41"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5352455949,
+      "lat": 37.210872,
+      "lon": 127.1233948,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중리교차로",
+        "name:ko": "중리교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5377832280,
+      "lat": 37.3573371,
+      "lon": 127.3734462,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "열미",
+        "name:ko": "열미",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5377832282,
+      "lat": 37.3464145,
+      "lon": 127.39131,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "봉현IC",
+        "name:ko": "봉현IC",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5377832984,
+      "lat": 37.3140058,
+      "lon": 127.4347463,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도암",
+        "name:ko": "도암",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5377832996,
+      "lat": 37.3121632,
+      "lon": 127.4400201,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도암",
+        "name:ko": "도암",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5676359158,
+      "lat": 37.2380526,
+      "lon": 127.4220781,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop Junction",
+        "name:ko": "호법분기점",
+        "ref": "21B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5676359199,
+      "lat": 37.2348668,
+      "lon": 127.4308337,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop Junction",
+        "name:ko": "호법분기점",
+        "ref": "21B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5691296501,
+      "lat": 37.6324193,
+      "lon": 126.820179,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "토당교차로",
+        "name:ko": "토당교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5691296509,
+      "lat": 37.6485622,
+      "lon": 126.8262569,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "주교교차로",
+        "name:ko": "주교교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695668393,
+      "lat": 37.4167778,
+      "lon": 127.0833526,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "금토분기점",
+        "name:en": "Geumto Junction",
+        "name:ko": "금토분기점",
+        "ref": "48-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5703054986,
+      "lat": 37.5640518,
+      "lon": 126.8842555,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "ref": "H-2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5703055020,
+      "lat": 37.5700978,
+      "lon": 126.8737962,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "ref": "H-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5711544833,
+      "lat": 37.3999128,
+      "lon": 127.0010777,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북청계",
+        "name:en": "N.Cheonggye",
+        "name:ko": "북청계",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5813837969,
+      "lat": 37.3855467,
+      "lon": 126.8552146,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "시흥하늘휴게소(브릿지스퀘어)",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5813838016,
+      "lat": 37.3835245,
+      "lon": 126.8556676,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "시흥하늘휴게소(브릿지스퀘어)",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130624871,
+      "lat": 37.2610268,
+      "lon": 127.1350579,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "어정",
+        "name:en": "Eojeong",
+        "name:ko": "어정"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130624877,
+      "lat": 37.2640028,
+      "lon": 127.1333926,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "어정",
+        "name:en": "Eojeong",
+        "name:ko": "어정"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130625359,
+      "lat": 37.2523025,
+      "lon": 127.1406203,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "상하",
+        "name:en": "Sangha",
+        "name:ko": "상하"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130625415,
+      "lat": 37.2295643,
+      "lon": 127.1827197,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "역동",
+        "name:en": "Yeokdong",
+        "name:ko": "역동"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130625438,
+      "lat": 37.2321124,
+      "lon": 127.17735,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "역동",
+        "name:en": "Yeokdong",
+        "name:ko": "역동"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130625459,
+      "lat": 37.2264018,
+      "lon": 127.1918588,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "명지",
+        "name:en": "Myeongji",
+        "name:ko": "명지"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6384944808,
+      "lat": 37.5314147,
+      "lon": 127.209036,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하남드림휴게소",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6384944862,
+      "lat": 37.5314575,
+      "lon": 127.2041133,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하남드림휴게소",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6396440542,
+      "lat": 37.3796353,
+      "lon": 126.9776279,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "평촌",
+        "name:en": "Pyeongchon",
+        "name:ko": "평촌",
+        "ref": "31",
+        "wikidata": "Q12621816",
+        "wikipedia": "ko:평촌 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6551210807,
+      "lat": 37.5235127,
+      "lon": 127.4439099,
+      "tags": {
+        "alt_name": "양평나들목",
+        "highway": "motorway_junction",
+        "name": "양평",
+        "name:en": "Yangpyeong",
+        "name:ko": "양평",
+        "ref": "30",
+        "start_date": "2023-05-31",
+        "wikidata": "Q11838914",
+        "wikipedia": "ko:양평 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6789544587,
+      "lat": 37.4626693,
+      "lon": 127.0189822,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "선암",
+        "name:ko": "선암"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6952377768,
+      "lat": 37.302187,
+      "lon": 127.0481086,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광교IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6952381444,
+      "lat": 37.3125,
+      "lon": 127.0179605,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조원IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7099363254,
+      "lat": 37.2660553,
+      "lon": 127.1823941,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인분기점",
+        "name:en": "West Yongin Junction",
+        "name:ko": "서용인분기점",
+        "ref": "3",
+        "wikidata": "Q28699989",
+        "wikipedia": "ko:서용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7099452917,
+      "lat": 37.5642414,
+      "lon": 127.3796079,
+      "tags": {
+        "alt_name": "양서·서종IC;서양평IC",
+        "highway": "motorway_junction",
+        "name": "두물머리",
+        "name:en": "Dumulmeori",
+        "name:ko": "두물머리",
+        "ref": "31",
+        "start_date": "2023-05-31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7384397661,
+      "lat": 37.6036398,
+      "lon": 126.8400451,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강매IC",
+        "name:ko": "강매IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7384402014,
+      "lat": 37.6046724,
+      "lon": 126.8305919,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "행주나루IC",
+        "name:ko": "행주나루IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7384402020,
+      "lat": 37.6046014,
+      "lon": 126.8322077,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강매IC",
+        "name:ko": "강매IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7384402054,
+      "lat": 37.6193286,
+      "lon": 126.8049855,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "능곡IC",
+        "name:ko": "능곡IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7503384940,
+      "lat": 37.2701024,
+      "lon": 127.1209011,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "상갈",
+        "name:en": "Sanggal",
+        "name:ko": "상갈"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7726203651,
+      "lat": 37.5163955,
+      "lon": 126.9234005,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여의중류IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7749793232,
+      "lat": 37.6705859,
+      "lon": 127.0496264,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "상계교",
+        "name:ko": "상계교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7749793373,
+      "lat": 37.6432657,
+      "lon": 127.0563915,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "녹천교",
+        "name:ko": "녹천교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7797967898,
+      "lat": 37.3229465,
+      "lon": 127.0792498,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7797967900,
+      "lat": 37.3226862,
+      "lon": 127.0795462,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7856357143,
+      "lat": 37.5875686,
+      "lon": 127.0729632,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "중랑교",
+        "name:ko": "중랑교"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7903644590,
+      "lat": 37.3183485,
+      "lon": 126.9905497,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "파장IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8035272786,
+      "lat": 37.5246001,
+      "lon": 126.91233,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여의JCT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8073023201,
+      "lat": 37.6049516,
+      "lon": 126.8394439,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "행주산성 분기점",
+        "name:el": "Κόμβος (JC) Χένγκτζουσανσονγκ",
+        "name:en": "Haengjusanseong JC",
+        "name:ko": "행주산성 분기점",
+        "wikidata": "Q109461757",
+        "wikipedia": "ko:행주산성 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8086463010,
+      "lat": 37.6608248,
+      "lon": 126.8509477,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "고양분기점",
+        "name:el": "Κόμβος (JC) Γκόγιανγκ",
+        "name:en": "Goyang Junction",
+        "name:ko": "고양분기점",
+        "ref": "3A;3B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8086463041,
+      "lat": 37.6875837,
+      "lon": 126.8435028,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사리현IC",
+        "name:el": "Κόμβος (IC) Σάριχιον",
+        "name:en": "Sarihyeon IC",
+        "name:ko": "사리현IC",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8086530120,
+      "lat": 37.5834232,
+      "lon": 126.8537419,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남고양IC",
+        "name:en": "S.Goyang IC",
+        "name:ko": "남고양IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8086530411,
+      "lat": 37.6092102,
+      "lon": 126.8518541,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "봉대산분기점",
+        "name:el": "Κόμβος (JC) Μπόνγκντεσαν",
+        "name:ko": "봉대산분기점",
+        "ref": "1",
+        "wikidata": "Q28701011",
+        "wikipedia": "ko:봉대산 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8086583681,
+      "lat": 37.6345954,
+      "lon": 126.8487657,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "흥도",
+        "name:el": "Χούνγκντο",
+        "name:en": "Heungdo",
+        "name:ko": "흥도",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8086586376,
+      "lat": 37.6882706,
+      "lon": 126.8419576,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "사리현IC",
+        "name:el": "Κόμβος (IC) Σάριχιον",
+        "name:en": "Sarihyeon IC",
+        "name:ko": "사리현IC",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8087288524,
+      "lat": 37.5594341,
+      "lon": 126.8870128,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월드컵대교북단",
+        "name:ko": "월드컵대교북단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8144373847,
+      "lat": 37.6747544,
+      "lon": 126.8540576,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "고양분기점",
+        "name:el": "Κόμβος (JC) Γκόγιανγκ",
+        "name:en": "Goyang Junction",
+        "name:ko": "고양분기점",
+        "ref": "3A;3B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8198186863,
+      "lat": 37.369944,
+      "lon": 126.8691689,
+      "tags": {
+        "destination": "100;판교,일산",
+        "highway": "motorway_junction",
+        "name": "조남분기점",
+        "name:en": "Jonam Junction",
+        "name:ko": "조남분기점",
+        "ref": "33B",
+        "wikidata": "Q11270947",
+        "wikipedia": "ko:조남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8219608326,
+      "lat": 37.32099,
+      "lon": 127.0852001,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8276671744,
+      "lat": 37.2397321,
+      "lon": 127.1601379,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8276671748,
+      "lat": 37.2411544,
+      "lon": 127.1625727,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8276671756,
+      "lat": 37.2383173,
+      "lon": 127.1636747,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "궁촌",
+        "name:en": "Gungchon",
+        "name:ko": "궁촌"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8276671773,
+      "lat": 37.239556,
+      "lon": 127.1618127,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "궁촌",
+        "name:en": "Gungchon",
+        "name:ko": "궁촌"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8374023883,
+      "lat": 37.564134,
+      "lon": 127.1564961,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강동고덕",
+        "name:en": "Gangdong Godeok",
+        "name:ko": "강동고덕",
+        "ref": "22",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700990",
+        "wikipedia": "ko:강동고덕 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8374023904,
+      "lat": 37.5736975,
+      "lon": 127.1462596,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남구리",
+        "name:en": "South Guri",
+        "name:ko": "남구리",
+        "ref": "23",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28699606",
+        "wikipedia": "ko:남구리 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8374027554,
+      "lat": 37.5704668,
+      "lon": 127.1586197,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강동고덕나들목",
+        "wikidata": "Q28700990",
+        "wikipedia": "ko:강동고덕 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8401672928,
+      "lat": 37.6475903,
+      "lon": 126.826037,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "주교교차로",
+        "name:ko": "주교교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8424408951,
+      "lat": 37.3188097,
+      "lon": 127.0928636,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8424408953,
+      "lat": 37.3198923,
+      "lon": 127.0888598,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8424408958,
+      "lat": 37.3203981,
+      "lon": 127.0873135,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8442507709,
+      "lat": 37.3272965,
+      "lon": 127.0625926,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8460237385,
+      "lat": 37.5375824,
+      "lon": 126.9029313,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "name:ko": "한강공원입구",
+        "ref": "F-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8505963185,
+      "lat": 37.4806502,
+      "lon": 127.1158875,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "위례IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8515826307,
+      "lat": 37.3917145,
+      "lon": 127.1931243,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광남",
+        "name:en": "Gwangnam",
+        "name:ko": "광남",
+        "ref": "19",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700993",
+        "wikipedia": "ko:광남 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8573325721,
+      "lat": 37.2703101,
+      "lon": 127.1891783,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인분기점",
+        "name:en": "West Yongin Junction",
+        "name:ko": "서용인분기점",
+        "ref": "3",
+        "wikidata": "Q28699989",
+        "wikipedia": "ko:서용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8573325726,
+      "lat": 37.2694729,
+      "lon": 127.1876495,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인분기점",
+        "name:en": "West Yongin Junction",
+        "name:ko": "서용인분기점",
+        "ref": "3",
+        "wikidata": "Q28699989",
+        "wikipedia": "ko:서용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8573325778,
+      "lat": 37.3633437,
+      "lon": 127.0626191,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서분당(고기)",
+        "name:en": "West Bundang (Gogi)",
+        "name:ko": "서분당(고기)",
+        "ref": "4",
+        "wikidata": "Q4742936",
+        "wikipedia": "ko:서분당 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8639318883,
+      "lat": 37.2005483,
+      "lon": 126.9437573,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "남봉담나들목",
+        "name:en": "South Bongdam Interchange",
+        "name:ko": "남봉담나들목",
+        "ref": "2",
+        "wikidata": "Q28700954",
+        "wikipedia": "ko:남봉담 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8670288954,
+      "lat": 37.2011636,
+      "lon": 126.9633634,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "화성분기점",
+        "name:en": "Hwaseong Junction",
+        "name:ko": "화성분기점",
+        "ref": "1-1",
+        "wikidata": "Q55736139",
+        "wikipedia": "ko:화성 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8960559272,
+      "lat": 37.2379374,
+      "lon": 127.152552,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인나들목",
+        "name:en": "W.Yongin Interchange",
+        "name:ko": "서용인나들목",
+        "ref": "2",
+        "wikidata": "Q28699988",
+        "wikipedia": "ko:서용인 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8960560503,
+      "lat": 37.242605,
+      "lon": 127.1556697,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인나들목",
+        "name:en": "W.Yongin Interchange",
+        "name:ko": "서용인나들목",
+        "ref": "2",
+        "wikidata": "Q28699988",
+        "wikipedia": "ko:서용인 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8960560717,
+      "lat": 37.2789368,
+      "lon": 127.2078126,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "포곡나들목",
+        "name:en": "Pogok Interchange",
+        "name:ko": "포곡나들목",
+        "ref": "4",
+        "wikidata": "Q28699991",
+        "wikipedia": "ko:포곡 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8960560725,
+      "lat": 37.2783913,
+      "lon": 127.2162322,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "포곡나들목",
+        "name:en": "Pogok Interchange",
+        "name:ko": "포곡나들목",
+        "ref": "4",
+        "wikidata": "Q28699991",
+        "wikipedia": "ko:포곡 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001157021,
+      "lat": 37.5485215,
+      "lon": 126.8875372,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "월드컵대교남단",
+        "name:ko": "월드컵대교남단"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9021889552,
+      "lat": 37.2694958,
+      "lon": 127.1835493,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인분기점",
+        "name:en": "West Yongin Junction",
+        "name:ko": "서용인분기점",
+        "ref": "3",
+        "wikidata": "Q28699989",
+        "wikipedia": "ko:서용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9021889617,
+      "lat": 37.2088991,
+      "lon": 127.1393231,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동탄나들목",
+        "name:en": "Dongtan Interchange",
+        "name:ko": "동탄나들목",
+        "ref": "1",
+        "wikidata": "Q28699987",
+        "wikipedia": "ko:동탄 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9021889623,
+      "lat": 37.2041973,
+      "lon": 127.1338702,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동탄나들목",
+        "name:en": "Dongtan Interchange",
+        "name:ko": "동탄나들목",
+        "ref": "1",
+        "wikidata": "Q28699987",
+        "wikipedia": "ko:동탄 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9035078185,
+      "lat": 37.2853123,
+      "lon": 127.3224205,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도척나들목",
+        "name:en": "Docheok Interchange",
+        "name:ko": "도척나들목",
+        "ref": "6",
+        "wikidata": "Q28699998",
+        "wikipedia": "ko:도척 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9035078197,
+      "lat": 37.2876715,
+      "lon": 127.328497,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "도척나들목",
+        "name:en": "Docheok Interchange",
+        "name:ko": "도척나들목",
+        "ref": "6",
+        "wikidata": "Q28699998",
+        "wikipedia": "ko:도척 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9056282688,
+      "lat": 37.3299233,
+      "lon": 127.2201669,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북용인",
+        "name:en": "North Yongin",
+        "name:ko": "북용인",
+        "ref": "17",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55729708",
+        "wikipedia": "ko:북용인 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9056306065,
+      "lat": 37.3354103,
+      "lon": 127.2198102,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북용인",
+        "name:en": "North Yongin",
+        "name:ko": "북용인",
+        "ref": "17",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55729708",
+        "wikipedia": "ko:북용인 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9293741506,
+      "lat": 37.4096237,
+      "lon": 127.0809037,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "금토분기점",
+        "name:en": "Geumto Junction",
+        "name:ko": "금토분기점",
+        "ref": "5A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9336699396,
+      "lat": 37.6247314,
+      "lon": 126.8007439,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "능곡IC",
+        "name:ko": "능곡IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9344083065,
+      "lat": 37.6154043,
+      "lon": 126.8574237,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "흥도",
+        "name:el": "Χούνγκντο",
+        "name:en": "Heungdo",
+        "name:ko": "흥도",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9344092986,
+      "lat": 37.6732867,
+      "lon": 126.8401833,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "왕릉교차로",
+        "name:ko": "왕릉교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9344092988,
+      "lat": 37.6738583,
+      "lon": 126.8408536,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "왕릉교차로",
+        "name:ko": "왕릉교차로"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9587044865,
+      "lat": 37.3122699,
+      "lon": 127.3513353,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "곤지암분기점",
+        "name:en": "Gonjiam Junction",
+        "name:ko": "곤지암분기점",
+        "ref": "38-2",
+        "wikidata": "Q28700000",
+        "wikipedia": "ko:곤지암 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9602619769,
+      "lat": 37.2681528,
+      "lon": 127.1862281,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서용인분기점",
+        "name:en": "West Yongin Junction",
+        "name:ko": "서용인분기점",
+        "ref": "3",
+        "wikidata": "Q28699989",
+        "wikipedia": "ko:서용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9645309000,
+      "lat": 37.2711954,
+      "lon": 127.2433615,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북용인분기점",
+        "name:en": "North Yongin Junction",
+        "name:ko": "북용인분기점",
+        "ref": "5",
+        "start_date": "2025-01-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9667204373,
+      "lat": 37.5901433,
+      "lon": 127.3352592,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조안",
+        "name:en": "Joan",
+        "name:ko": "조안",
+        "ref": "32",
+        "start_date": "2023-05-31",
+        "wikidata": "Q28701039",
+        "wikipedia": "ko:조안 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9717308835,
+      "lat": 37.3628827,
+      "lon": 127.219709,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "오포(포천)",
+        "name:en": "Opo(Pocheon)",
+        "name:ko": "오포(포천)",
+        "ref": "18",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732242",
+        "wikipedia": "ko:오포 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9717312626,
+      "lat": 37.3493224,
+      "lon": 127.2210241,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "오포(세종)",
+        "name:en": "Opo(Sejong)",
+        "name:ko": "오포(세종)",
+        "ref": "18",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732242",
+        "wikipedia": "ko:오포 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9722433547,
+      "lat": 37.2267602,
+      "lon": 127.104165,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "기흥",
+        "name:en": "Giheung",
+        "name:ko": "기흥",
+        "ref": "43A",
+        "wikidata": "Q2924653",
+        "wikipedia": "ko:기흥 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9756324079,
+      "lat": 37.6920897,
+      "lon": 127.3286934,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "수동",
+        "name:en": "Sudong",
+        "name:ko": "수동",
+        "ref": "5",
+        "start_date": "2024-02-07",
+        "wikidata": "Q85981178",
+        "wikipedia": "ko:수동 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10031491868,
+      "lat": 37.6347517,
+      "lon": 127.3185405,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "화도분기점",
+        "name:en": "Hwado Junction",
+        "name:ko": "화도분기점",
+        "ref": "7",
+        "start_date": "2024-02-07",
+        "wikidata": "Q28701038",
+        "wikipedia": "ko:화도 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10089109755,
+      "lat": 37.6892676,
+      "lon": 127.3290135,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "수동",
+        "name:en": "Sudong",
+        "name:ko": "수동",
+        "ref": "5",
+        "start_date": "2024-02-07",
+        "wikidata": "Q85981178",
+        "wikipedia": "ko:수동 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10113517626,
+      "lat": 37.6547164,
+      "lon": 127.3268164,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "달뫼",
+        "name:en": "Dalmoe",
+        "name:ko": "달뫼",
+        "ref": "6",
+        "start_date": "2024-02-07",
+        "wikipedia": "ko:달뫼 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10123564646,
+      "lat": 37.3035163,
+      "lon": 127.3516354,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "곤지암분기점",
+        "name:en": "Gonjiam Junction",
+        "name:ko": "곤지암분기점",
+        "ref": "7",
+        "wikidata": "Q28700000",
+        "wikipedia": "ko:곤지암 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10213560325,
+      "lat": 37.2368145,
+      "lon": 127.425696,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호법분기점",
+        "name:en": "Hobeop Junction",
+        "name:ko": "호법분기점",
+        "ref": "21C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10243923563,
+      "lat": 37.2936574,
+      "lon": 127.1033822,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "45A;45B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10243923626,
+      "lat": 37.2851269,
+      "lon": 127.1040287,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "신갈분기점",
+        "name:en": "Singal JC",
+        "name:ko": "신갈분기점",
+        "ref": "45A;45B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10253013552,
+      "lat": 37.5629983,
+      "lon": 127.3828075,
+      "tags": {
+        "alt_name": "서양평IC",
+        "highway": "motorway_junction",
+        "name": "두물머리",
+        "name:en": "Dumulmeori",
+        "name:ko": "두물머리",
+        "ref": "31",
+        "start_date": "2023-05-31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10300472119,
+      "lat": 37.593527,
+      "lon": 127.3312185,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "조안",
+        "name:en": "Joan",
+        "name:ko": "조안",
+        "ref": "32",
+        "start_date": "2024-02-07",
+        "wikidata": "Q28701039",
+        "wikipedia": "ko:조안 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10301652617,
+      "lat": 37.422197,
+      "lon": 127.1162821,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "여수대로IC",
+        "name:en": "Yeosudaero IC",
+        "name:ko": "여수대로IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10710061752,
+      "lat": 37.6536284,
+      "lon": 127.2545572,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "동호평",
+        "name:ko": "동호평",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10989053918,
+      "lat": 37.6605947,
+      "lon": 127.3292288,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "달뫼",
+        "name:en": "Dalmoe",
+        "name:ko": "달뫼",
+        "ref": "6",
+        "start_date": "2024-02-07",
+        "wikipedia": "ko:달뫼 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10989127635,
+      "lat": 37.6329519,
+      "lon": 127.3183009,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "화도분기점",
+        "name:en": "Hwado Junction",
+        "name:ko": "화도분기점",
+        "ref": "7",
+        "start_date": "2024-02-07",
+        "wikidata": "Q28701038",
+        "wikipedia": "ko:화도 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11034276939,
+      "lat": 37.5121179,
+      "lon": 127.0152143,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "잠원IC",
+        "name:en": "Jamwon Interchange",
+        "name:ko": "잠원IC",
+        "noref": "yes",
+        "old_ref": "52"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11066510012,
+      "lat": 37.340933,
+      "lon": 126.8647451,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "안산분기점",
+        "name:en": "Ansan JC",
+        "name:ko": "안산분기점",
+        "ref": "32"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11073569991,
+      "lat": 37.5006366,
+      "lon": 127.0196369,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "반포IC",
+        "name:en": "Banpo Interchange",
+        "name:ko": "반포IC",
+        "noref": "yes",
+        "old_name": "51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11091065444,
+      "lat": 37.4808359,
+      "lon": 127.0270374,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서초",
+        "name:en": "Seocho",
+        "name:ko": "서초",
+        "noref": "yes",
+        "old_ref": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11091070047,
+      "lat": 37.4639505,
+      "lon": 127.0396428,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "양재",
+        "name:en": "Yangjae",
+        "name:ja": "良才",
+        "name:ko": "양재",
+        "ref": "49B",
+        "wikidata": "Q2924611",
+        "wikipedia": "ko:양재 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11091070048,
+      "lat": 37.454574,
+      "lon": 127.0485857,
+      "tags": {
+        "alt_name": "신양재나들목",
+        "highway": "motorway_junction",
+        "name": "양재",
+        "name:en": "Yangjae",
+        "name:ja": "良才IC",
+        "name:ko": "양재",
+        "ref": "49",
+        "wikidata": "Q2924611",
+        "wikipedia": "ko:양재 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11168749851,
+      "lat": 37.6579817,
+      "lon": 126.8191793,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "고양",
+        "name:en": "Goyang",
+        "name:ko": "고양",
+        "ref": "17",
+        "wikidata": "Q12584320",
+        "wikipedia": "ko:고양 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11198958449,
+      "lat": 37.5143453,
+      "lon": 127.1668531,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서하남분기점",
+        "name:en": "West Hanam Junction",
+        "name:ko": "서하남분기점",
+        "ref": "4-1A;4-1B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700989",
+        "wikipedia": "ko:서하남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11227690504,
+      "lat": 37.607136,
+      "lon": 127.0497153,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "하월곡"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11662267601,
+      "lat": 37.6677938,
+      "lon": 126.8632918,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "고양분기점",
+        "name:el": "Κόμβος (JC) Γκόγιανγκ",
+        "name:en": "Goyang Junction",
+        "name:ko": "고양분기점",
+        "ref": "16-1",
+        "start_date": "2020-11-07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854194994,
+      "lat": 37.24787,
+      "lon": 127.2508334,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인분기점",
+        "name:en": "Yongin Junction",
+        "name:ko": "용인분기점",
+        "ref": "15A;15B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732390",
+        "wikipedia": "ko:용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854195026,
+      "lat": 37.2510217,
+      "lon": 127.2550466,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인분기점",
+        "name:en": "Yongin Junction",
+        "name:ko": "용인분기점",
+        "ref": "18A;18B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732390",
+        "wikipedia": "ko:용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854195034,
+      "lat": 37.2561645,
+      "lon": 127.2508058,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인분기점",
+        "name:en": "Yongin Junction",
+        "name:ko": "용인분기점",
+        "ref": "15A;15B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732390",
+        "wikipedia": "ko:용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854195059,
+      "lat": 37.2488088,
+      "lon": 127.2576333,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인분기점",
+        "name:en": "Yongin Junction",
+        "name:ko": "용인분기점",
+        "ref": "15A;15B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732390",
+        "wikipedia": "ko:용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854207220,
+      "lat": 37.5684977,
+      "lon": 127.1529642,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강동고덕",
+        "name:en": "Gangdong Godeok",
+        "name:ko": "강동고덕",
+        "ref": "22",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700990",
+        "wikipedia": "ko:강동고덕 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854207241,
+      "lat": 37.5139188,
+      "lon": 127.1606841,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서하남분기점",
+        "name:en": "West Hanam Junction",
+        "name:ko": "서하남분기점",
+        "ref": "4-1A;4-1B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700989",
+        "wikipedia": "ko:서하남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854207261,
+      "lat": 37.5180774,
+      "lon": 127.1679525,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "초이",
+        "name:en": "Choi",
+        "name:ko": "초이",
+        "ref": "21",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700999",
+        "wikipedia": "ko:초이 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854209877,
+      "lat": 37.525578,
+      "lon": 127.1637948,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서하남분기점",
+        "name:en": "West Hanam Junction",
+        "name:ko": "서하남분기점",
+        "ref": "20",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700989",
+        "wikipedia": "ko:서하남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854209923,
+      "lat": 37.5327608,
+      "lon": 127.1645231,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "초이나들목",
+        "name:en": "Choi Interchange",
+        "name:ko": "초이나들목",
+        "ref": "21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854209933,
+      "lat": 37.5307631,
+      "lon": 127.1611004,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "초이",
+        "name:en": "Choi",
+        "name:ko": "초이",
+        "ref": "21",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700999",
+        "wikipedia": "ko:초이 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854209966,
+      "lat": 37.5104186,
+      "lon": 127.171401,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서하남분기점",
+        "name:en": "West Hanam Junction",
+        "name:ko": "서하남분기점",
+        "ref": "20",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700989",
+        "wikipedia": "ko:서하남 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854209992,
+      "lat": 37.3954383,
+      "lon": 127.1916591,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "광남",
+        "name:en": "Gwangnam",
+        "name:ko": "광남",
+        "ref": "19",
+        "start_date": "2025-01-01",
+        "wikidata": "Q28700993",
+        "wikipedia": "ko:광남 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854210053,
+      "lat": 37.2775716,
+      "lon": 127.2502909,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "북용인분기점",
+        "name:en": "North Yongin Junction",
+        "name:ko": "북용인분기점",
+        "ref": "16",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55727883",
+        "wikipedia": "ko:북용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11854265281,
+      "lat": 37.2453478,
+      "lon": 127.2509478,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "용인분기점",
+        "name:en": "Yongin Junction",
+        "name:ko": "용인분기점",
+        "ref": "18A;18B",
+        "start_date": "2025-01-01",
+        "wikidata": "Q55732390",
+        "wikipedia": "ko:용인 분기점"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12470893332,
+      "lat": 37.3440444,
+      "lon": 127.2205718,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "처인휴게소",
+        "name:ko": "처인휴게소"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12470893358,
+      "lat": 37.3383359,
+      "lon": 127.2202976,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "처인휴게소",
+        "name:ko": "처인휴게소",
+        "start_date": "2025-01-01"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12989612400,
+      "lat": 37.6612637,
+      "lon": 127.2360692,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "호평IC",
+        "name:ko": "호평IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13290331384,
+      "lat": 37.5662973,
+      "lon": 127.147848,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "강동고덕나들목",
+        "wikidata": "Q28700990",
+        "wikipedia": "ko:강동고덕 나들목"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13343826484,
+      "lat": 37.6086151,
+      "lon": 126.9995011,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "국민대입구",
+        "name:ko": "국민대입구",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13363699817,
+      "lat": 37.4752273,
+      "lon": 127.1292082,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "송파",
+        "name:en": "Songpa",
+        "name:ja": "松坡",
+        "name:ko": "송파",
+        "ref": "3C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13670540711,
+      "lat": 37.5211368,
+      "lon": 127.0973994,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "한강공원입구",
+        "ref": "B-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13671233493,
+      "lat": 37.5635301,
+      "lon": 127.131452,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "암사IC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13833906976,
+      "lat": 37.5117275,
+      "lon": 127.1504061,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "서하남",
+        "name:en": "West Hanam",
+        "name:ko": "서하남",
+        "ref": "4",
+        "wikidata": "Q16097803",
+        "wikipedia": "ko:서하남 나들목"
+      }
+    }
+  ]
+}
