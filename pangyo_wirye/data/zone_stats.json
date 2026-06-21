@@ -1,0 +1,20 @@
+{
+  "판교테크노밸리": {
+    "n_oa": 141,
+    "pop_total": 59885,
+    "emp_total": 91806,
+    "job_pop_ratio": 1.533,
+    "area_m2": 660000,
+    "emp_density": 1391.0,
+    "pop_density": 907.3
+  },
+  "위례신도시 업무·상업용지": {
+    "n_oa": 52,
+    "pop_total": 20200,
+    "emp_total": 13028,
+    "job_pop_ratio": 0.645,
+    "area_m2": 280000,
+    "emp_density": 465.3,
+    "pop_density": 721.4
+  }
+}
