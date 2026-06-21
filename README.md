@@ -2,13 +2,6 @@
 
 판교테크노밸리와 위례신도시의 업무 집적, 토지이용, 대중교통 접근성, 생활권 인구·종사자, 도로망과 버스 접근성을 비교한 공간분석 프로젝트입니다.
 
-## 웹 페이지
-
-- 제출 원본: `판교와위례비교분석.html`
-- GitHub Pages: 저장소 최상단에 동일한 파일을 `index.html`로 복사
-- 별도 빌드 과정은 필요하지 않습니다.
-- Leaflet과 Chart.js를 CDN으로 불러오므로 인터넷 연결이 필요합니다.
-
 ## 분석 목적
 
 1. 업무·연구·판매 기능은 실제로 어느 정도 집적되어 있는가?
@@ -53,37 +46,6 @@
 
 원자료의 저작권과 이용조건은 각 제공기관의 정책을 따릅니다. 재배포가 제한된 원자료는 저장소에 직접 포함하지 않고 다운로드 주소, 파일명, 기준일과 처리 방법을 기록합니다.
 
-## 권장 저장소 구조
-
-```text
-.
-├─ index.html
-├─ 판교와위례비교분석.html
-├─ README.md
-├─ scripts/
-└─ data/
-   ├─ raw/
-   └─ processed/
-      ├─ accessibility_results.json
-      ├─ actual_isochrones_800m.geojson
-      ├─ building_footprints_map.geojson
-      ├─ building_map_data.json
-      ├─ bus_accessibility_results.json
-      ├─ bus_stops_clipped.geojson
-      ├─ landuse_analysis_results.json
-      ├─ road_network_results.json
-      ├─ road_extended_results.json
-      ├─ roads_clipped.geojson
-      ├─ socio_demographic_results.json
-      ├─ station_area_results.json
-      ├─ station_area_buffers.geojson
-      ├─ station_area_stations.geojson
-      ├─ wirye_business_commercial_boundary.geojson
-      └─ zoning_map_clipped.geojson
-```
-
-공간 데이터는 최종 HTML에도 포함되어 있습니다. `data/processed`는 결과 검증과 재현을 위해 별도로 제공합니다.
-
 ## 전처리 과정
 
 1. 분석경계를 정의하고 면적 계산용 좌표계 EPSG:5179로 변환했습니다.
@@ -126,4 +88,3 @@
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [LH 토지주택연구원](https://lhri.lh.or.kr/web/rsrchReprt/RsrchReprtForm.do?reprtId=1870)
 
-분석 결과를 인용하거나 재사용할 경우 데이터 제공기관, 기준 시점, 분석경계 및 면적가중 추정 방식을 함께 밝혀야 합니다.
